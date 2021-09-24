@@ -1,0 +1,2395 @@
+000000 | woman in white dress standing at the bottom
+000054 | woman in white dress standing on the bottom left
+000090 | woman in white dress standing on the left side
+000114 | target disappeared
+000141 | woman in white dress standing at the top
+000154 | woman in white dress standing at the top
+000208 | woman in white dress standing on the top right
+000242 | woman in white dress standing on the right
+000265 | target disappeared
+000292 | woman in white dress standing at the bottom
+000305 | woman in white dress standing at the bottom
+000361 | woman in white dress standing on the left
+000389 | woman in white dress standing on the left
+000414 | target disappeared
+000441 | woman in white dress standing at the top
+000458 | woman in white dress standing at the top
+000520 | woman in white dress standing on the right
+000551 | woman in white dress standing on the right
+000565 | target disappeared
+000594 | woman in white dress standing at the bottom
+000609 | woman in white dress standing at the bottom
+000657 | woman in white dress standing on the left
+000710 | target disappeared
+000768 | woman's leg at the top
+000818 | woman in white dress standing on the right
+000855 | woman in white dress standing on the right
+000863 | target disappeared
+000894 | woman in white dress standing at the bottom
+000905 | woman in white dress standing at the bottom
+000947 | woman in white dress standing on the bottom left
+000992 | woman in white dress standing on the left
+001014 | target disappeared
+001041 | woman in white dress standing at the top
+001060 | woman in white dress standing at the top
+001108 | woman in white dress standing on the right
+001148 | woman in white dress standing on the right
+001165 | target disappeared
+001204 | woman in white dress standing at the bottom
+001226 | woman in white dress standing at the bottom on the right of a person in white
+001282 | woman in white dress standing on the left
+001314 | target disappeared
+001341 | woman in white dress standing at the top
+001355 | woman in white dress standing at the top
+######################################################################################################
+000000 | person in black shirt riding at the bottom
+000062 | person in black shirt riding on the left
+000112 | target disappeared
+000145 | person in black shirt riding at the top
+000165 | person in black shirt riding at the top
+000214 | person in black shirt riding on the right
+000247 | person in black shirt riding on the right
+000261 | target disappeared
+000298 | person in black shirt riding at the bottom
+000303 | person in black shirt riding at the bottom
+000382 | person in black shirt riding on the left
+000411 | target disappeared
+000446 | person in black shirt riding at the top
+000464 | person in black shirt riding at the top
+000511 | person in black shirt riding on the right
+000562 | target disappeared
+000596 | person in black shirt riding at the bottom
+000602 | person in black shirt riding at the bottom
+000713 | target disappeared
+000741 | person in black shirt riding at the top
+000759 | person in black shirt riding at the top
+000807 | person in black shirt riding near the top right corner
+000841 | person in black shirt riding on the right
+000865 | target disappeared
+000893 | person in black shirt riding at the bottom
+000898 | person in black shirt riding at the bottom
+000954 | person in black shirt riding near the bottom left corner
+000989 | person in black shirt riding on the left
+001014 | target disappeared
+001037 | person in black shirt riding near the top left corner
+001049 | person in black shirt riding at the top
+001072 | person in black shirt riding at the top
+001099 | person in black shirt riding on the right
+001139 | person in black shirt riding on the right
+001163 | target disappeared
+001195 | person in black shirt riding at the bottom
+001200 | person in black shirt riding at the bottom
+001259 | person in black shirt riding on the bottom left
+001272 | person riding on the left
+001313 | target disappeared
+001341 | person in black shirt riding at the top
+001361 | person in black shirt riding at the top
+001398 | person in black shirt riding on the right
+001430 | person in black shirt riding on the right
+001460 | target disappeared
+001497 | person in black shirt riding at the bottom
+001503 | person in black shirt riding at the bottom
+001559 | person in black shirt riding on the bottom left
+001588 | person in black shirt riding on the left
+001614 | target disappeared
+001638 | person in black shirt riding at the top
+001653 | person in black shirt riding at the top
+001704 | person in black shirt riding on the right
+001738 | person in black shirt riding on the right
+001765 | target disappeared
+001792 | person in black shirt riding at the bottom
+001799 | person in black shirt riding at the bottom
+001873 | person in black shirt riding on the left
+001914 | target disappeared
+001936 | person in black shirt riding at the top
+001953 | person in black shirt riding at the top
+002005 | person in black shirt riding on the right
+002062 | target disappeared
+002097 | person in black shirt riding at the bottom
+002105 | person in black shirt riding near the bottom left
+002158 | person in black shirt riding non the left
+002194 | person in black shirt riding on the left
+002214 | target disappeared
+002238 | person in black shirt riding at the top
+002254 | person in black shirt riding at the top
+002301 | person in black shirt riding on the right
+002343 | person in black shirt riding on the right
+002364 | target disappeared
+002395 | person in black shirt riding at the bottom
+002404 | person in black shirt riding at the bottom
+002458 | person in black shirt riding on the left
+002490 | person in black shirt riding on the left
+002514 | target disappeared
+002538 | person in black shirt riding at the top
+002554 | person in black shirt riding on the right
+002634 | person in black shirt riding on the right
+002664 | target disappeared
+002695 | person in black shirt riding at the bottom
+002700 | person in black shirt riding at the bottom
+002766 | person in black shirt riding on the left
+002813 | target disappeared
+######################################################################################################
+000000 | person in blue shirt riding on the right
+000128 | person in blue shirt riding on the road
+000683 | person in blue shirt riding on the top right
+000772 | person in blue shirt riding on the top right
+000876 | person in blue shirt riding on the left
+001064 | person in blue shirt riding at the top
+001239 | person in blue shirt riding on the right
+001500 | person in blue shirt riding on the road
+002020 | person in blue shirt riding on the right
+002120 | person in blue shirt riding on the left
+002170 | person in blue shirt riding on the left
+002705 | person in blue shirt riding at the top
+002811 | person in blue shirt riding in the top right corner
+002930 | person in blue shirt riding at the top
+######################################################################################################
+000000 | gray bird flying in the middle
+000015 | gray bird flying at the bottom
+000099 | gray bird flying on the right
+000105 | gray bird flying in the bottom right corner
+000115 | target disappeared
+000174 | gray bird flying at the bottom
+000190 | gray bird flying in the middle
+000200 | gray bird flying in the middle
+000236 | gray bird flying on the bottom right
+000268 | target disappeared
+000484 | gray bird flying on the left
+000505 | gray bird flying in the middle
+000524 | gray bird flying on the top right
+000547 | target disappeared
+000630 | gray bird flying on the right
+000634 | gray bird flying on the right
+000638 | gray bird flying in the middle
+000647 | gray bird flying on the left
+000655 | target disappeared
+000771 | gray bird flying on the left
+000777 | gray bird flying on the left
+000799 | gray bird flying in the middle
+000822 | gray bird flying on the top right
+000880 | target disappeared
+000951 | gray bird flying on the right
+000960 | gray bird flying on the right
+000974 | gray bird flying in the middle
+000986 | gray bird flying on the left
+001009 | target disappeared
+001056 | gray bird flying on the left
+001068 | gray bird flying on the left
+001090 | gray bird flying at the top
+001216 | gray bird flying in the middle
+001237 | gray bird flying near the right
+001294 | gray bird flying in the middle
+001326 | gray bird flying on the right
+001377 | gray bird flying at the bottom
+001403 | gray bird flying on the left
+001435 | gray bird flying in the middle
+001463 | gray bird flying near the top left
+001471 | gray bird flying on the left
+001477 | target disappeared
+001560 | gray bird flying on the left
+001570 | gray bird flying on the left
+001592 | gray bird flying in the middle
+001707 | gray bird flying on the right
+001741 | target disappeared
+001803 | gray bird flying on the bottom right
+001811 | gray bird flying near the bottom right
+001820 | gray bird flying in the middle
+001833 | gray bird flying on the left
+001852 | target disappeared
+001875 | gray bird flying on the left
+001882 | gray bird flying on the left
+001898 | gray bird flying in the middle
+001915 | gray bird flying on the right
+001933 | target disappeared
+002106 | gray bird flying on the bottom right
+002124 | gray bird flying near the bottom right
+002136 | gray bird flying in the middle
+002151 | gray bird flying on the left
+002209 | gray bird flying in the middle
+002227 | gray bird flying at the top
+002242 | gray bird flying in the top right corner
+002248 | target disappeared
+002271 | gray bird flying in the top right corner
+002286 | gray bird flying in the top right corner
+002310 | gray bird flying at the top
+002318 | gray bird flying on the left
+002326 | target disappeared
+######################################################################################################
+000000 | white boat at the bottom floating on the lake
+000950 | white boat at the bottom floating on the lake
+001318 | white boat on the right moving on the lake
+001359 | white boat in the middle moving on the lake
+001480 | white boat at the bottom moving on the lake
+001621 | target disappeared
+001742 | white boat at the bottom moving on the lake
+001768 | white boat at the bottom moving on the lake
+001900 | white boat on the right moving on the lake
+001976 | white boat in the middle moving on the lake
+002070 | white boat at the top moving on the lake
+002520 | white boat on the right moving on the lake
+002530 | white boat at the bottom moving on the lake
+002561 | target disappeared
+002638 | white boat near the bottom left corner moving on the lake
+002658 | white boat near the bottom left corner moving on the lake
+002770 | white boat on the left moving on the lake
+002960 | white boat at the bottom moving on the lake
+003063 | target disappeared
+003672 | white boat on the left floating on the lake
+003677 | white boat on the left floating on the lake
+003806 | white boat at the bottom floating on the lake
+003835 | target disappeared
+004937 | target disappeared
+005117 | target disappeared
+005163 | target disappeared
+005208 | white boat at the top floating on the lake
+005217 | white boat in the distance floating on the lake
+006262 | target disappeared
+006296 | white boat at the top floating on the lake
+006305 | white boat at the top floating on the lake
+006313 | target disappeared
+006347 | target disappeared
+006364 | white boat at the top floating on the lake
+006366 | white boat at the top floating on the lake
+006714 | white boat on the left floating on the lake
+006771 | white boat on the left floating on the lake
+006816 | white boat on the left floating on the lake
+006908 | white boat in the middle floating on the lake
+006952 | white boat at the top floating on the lake
+007141 | white boat on the top left floating on the lake
+007246 | white boat on the left floating on the lake
+007344 | white boat on the left floating on the lake
+######################################################################################################
+000000 | black bull running on the road
+000056 | black bull running near the left
+000159 | black bull running on the right
+000235 | black bull running in the middle
+000530 | black bull running on the right
+000625 | black bull running in the middle
+000642 | target disappeared
+000866 | black bull running on the left
+000883 | target disappeared
+000889 | black bull running on the left
+000904 | target disappeared
+000911 | black bull running on the left
+001019 | black bull running in the middle
+001214 | black bull running on the right
+001324 | black bull running in the middle
+001443 | black bull running on the right
+001588 | target disappeared
+001621 | black bull running in the middle
+001689 | black bull running on the left
+001696 | target disappeared
+001727 | black bull running on the right
+001738 | black bull running on the right
+001761 | black bull running in the middle
+001850 | black bull running on the left
+######################################################################################################
+000000 | silver car moving at the bottom
+000270 | silver car moving in the middle
+000285 | silver car moving in the distance
+000564 | silver car moving on the right
+000766 | silver car moving on the middle right
+000945 | silver car moving on the right
+001368 | silver car moving at the top
+001522 | target disappeared
+001654 | silver car moving near the top left corner
+001874 | silver car moving on the left
+002050 | silver car moving on the bottom left
+002194 | target disappeared
+002376 | silver car moving at the bottom
+002410 | silver car moving at the bottom
+002582 | silver car moving on the right
+######################################################################################################
+000000 | silver car moving on the bottom left
+000133 | silver car moving at the top
+000279 | silver car moving on the right
+000430 | silver car moving at the bottom
+000829 | silver car moving on the left
+001294 | silver car moving on the right
+001351 | silver car moving at the bottom
+######################################################################################################
+000000 | silver car running ahead
+000223 | silver car running in the middle
+000436 | silver car running near the bottom right corner
+000684 | silver car running on the right
+000722 | silver car running in the middle
+001153 | silver car running at the bottom
+001444 | silver car running on the right
+001555 | silver car running at the top
+001600 | silver car running in the middle
+001836 | silver car running on the right
+002104 | silver car running at the bottom
+002190 | silver car running on the right
+002417 | silver car running on the right
+002608 | silver car running on the top right
+002912 | silver car running in the middle
+003200 | silver car running on the left
+003463 | silver car running at the bottom
+003665 | silver car running in the middle
+003714 | silver car running in the middle
+004130 | silver car parking near the bottom left corner
+004250 | silver car parking in the middle
+004623 | silver car on the left
+######################################################################################################
+000000 | silver and white car in the middle
+000510 | silver and white car running on the left
+000723 | silver and white car running near the top left corner
+000754 | silver and white car running on the top left
+001004 | silver and white car running on the right
+001284 | silver and white car running at the bottom
+001504 | silver and white car running on the middle left
+001957 | silver and white car running on the middle left
+002000 | silver and white car running on the middle left
+002180 | silver and white car running on the top left
+002382 | silver and white car running at the top
+######################################################################################################
+000000 | silver and white car running at the bottom
+000254 | silver and white car running at the top
+000321 | silver and white car running on the right
+000369 | silver and white car running on the bottom right
+000523 | silver and white car running on the right
+000622 | silver and white car running on the bottom right
+000861 | silver and white car running at the top
+000905 | silver and white car running on the right
+000938 | silver and white car running at the bottom
+001158 | silver and white car running in the middle
+001298 | silver and white car running on the right
+001628 | silver and white car running on the top right
+001821 | silver and white car running at the top
+######################################################################################################
+000000 | red car running in the distance
+000276 | red car running at the bottom
+000322 | red car running in the middle
+000342 | red car running on the left
+000379 | red car running at the top
+000866 | red car running in the middle
+000955 | red car running at the top
+001090 | red car running on the right
+001228 | red car running on the left
+001545 | red car running in the middle
+001586 | red car running at the top
+001644 | red car running on the left
+001853 | red car running in the middle
+001925 | red car running at the top
+######################################################################################################
+000000 | black car running in the middle
+000005 | black car running on the middle right
+000120 | black car running on the right
+000164 | target disappeared
+000168 | black car running on the right
+000250 | black car running at the bottom
+000287 | black car running on the left
+000314 | black car running at the bottom
+000331 | black car running at the bottom
+000340 | black car running on the left
+000356 | target disappeared
+000387 | black car running on the left
+000388 | black car running on the left
+000401 | black car running at the bottom
+000409 | target disappeared
+000585 | black car running at the bottom
+000613 | black car running at the bottom
+000633 | target disappeared
+000658 | black car running on the right
+000660 | black car running on the right
+000687 | black car running at the top
+000852 | black car running at the bottom
+000978 | target disappeared
+001008 | black car running in the middle
+001157 | black car running at the top
+001197 | black car running on the right
+001228 | black car running at the bottom
+001268 | target disappeared
+001285 | black car running in the middle
+001304 | black car running at the top
+001330 | black car running in the middle
+001340 | black car running at the bottom
+001409 | black car running in the middle
+001472 | black car running at the bottom
+001624 | target disappeared
+001638 | black car running in the middle
+001640 | black car running in the middle
+001670 | target disappeared
+001677 | black car running at the bottom
+001701 | black car running in the middle
+001838 | black car running at the bottom
+001863 | black car running in the middle
+001961 | black car running on the right
+001981 | target disappeared
+002011 | black car running on the right
+002013 | black car running on the right
+002038 | black car running at the bottom
+002058 | black car running on the left
+002065 | black car running on the right
+002082 | black car running on the left
+002098 | black car running on the right
+002109 | black car running in the middle
+002214 | black car running at the bottom
+002231 | black car running in the middle
+002315 | black car running on the left
+002353 | black car running at the bottom
+002375 | black car running on the middle right
+002411 | target disappeared
+002416 | black car running in the middle
+002519 | black car running at the bottom
+002744 | black car running at the bottom
+002870 | black car running on the right
+002926 | target disappeared
+002951 | black car running on the right
+003056 | black car running in the middle
+003082 | black car running at the top
+003130 | black car running at the bottom
+003664 | black car running on the left
+003691 | target disappeared
+003721 | black car running on the bottom right
+003873 | target disappeared
+003905 | black car running on the bottom right
+003907 | black car running on the bottom right
+004181 | black car running on the right
+004267 | black car running in the middle
+004365 | black car running on the left
+004400 | black car running in the middle
+004469 | black car running on the right
+004483 | black car running at the bottom
+004620 | target disappeared
+004741 | target disappeared
+004763 | black car running at the top
+005078 | black car running on the bottom right
+005149 | target disappeared
+005174 | black car running on the bottom right
+005304 | target disappeared
+005324 | black car running on the bottom right
+005820 | black car running on the left
+006026 | black car running in the middle
+006170 | target disappeared
+006202 | black car running on the left
+006314 | target disappeared
+006352 | black car running on the left
+007532 | black car running in the middle
+007632 | target disappeared
+007895 | black car running on the right
+007967 | black car running in the middle
+008159 | target disappeared
+008351 | target disappeared
+008771 | black car running next to a white car
+008860 | target disappeared
+008884 | black car running on the right
+008924 | black car running in the middle
+008992 | black car running on the right
+009073 | black car running on the bottom right
+009126 | black car running on the left
+009209 | target disappeared
+009232 | black car running on the left
+009475 | target disappeared
+009615 | black car running on the left
+009624 | target disappeared
+009636 | black car running on the left
+009886 | target disappeared
+######################################################################################################
+000000 | white cat on the right standing on the street
+000490 | white cat standing in front of a fox
+000507 | white cat standing on the left
+000555 | white cat chasing a fox
+000595 | target disappeared
+000600 | target disappeared
+000610 | white cat running in the distance
+000640 | target disappeared
+001034 | white cat standing in front of a fox
+001035 | white cat standing in front of a fox
+001059 | white cat standing in the middle
+001258 | white cat standing on the left
+001327 | target disappeared
+001487 | white cat standing on the left
+######################################################################################################
+000000 | black and white cat standing in the middle
+000059 | black and white cat standing on the left
+000082 | black and white cat walking next to the gray dog
+000110 | black and white cat walking on the right
+000143 | target disappeared
+000152 | black and white cat walking on the left
+000175 | black and white cat standing in front of a dog
+000201 | black and white cat walking on the right
+000242 | target disappeared
+000252 | black and white cat walking on the left
+000261 | black and white cat walking on the left
+000306 | black and white cat walking on the right
+000372 | black and white cat walking in front of a gray dog
+000487 | target disappeared
+000507 | black and white cat walking on the left
+000511 | black and white cat walking on the left
+000537 | black and white cat walking in front of a gray dog
+000555 | black and white cat walking on the right
+000570 | target disappeared
+000582 | black and white cat walking on the left
+000586 | black and white cat walking on the left
+000620 | black and white cat walking in front of a gray dog
+000643 | black and white cat walking on the right
+000660 | target disappeared
+000675 | black and white cat walking on the left
+000684 | black and white cat walking on the left
+000827 | target disappeared
+000844 | target disappeared
+000872 | black and white cat lying on the right
+000876 | black and white cat lying on the right
+001088 | target disappeared
+001276 | black and white cat walking on the left
+001303 | black and white cat lying in front of a gray dog
+001369 | black and white cat walking on the right
+001387 | black and white cat walking on the left
+001400 | target disappeared
+001408 | black and white cat walking on the left
+001447 | target disappeared
+001467 | black and white cat walking on the left
+001513 | black and white cat walking on the right
+001552 | target disappeared
+001561 | black and white cat walking on the left
+001568 | black and white cat walking on the left
+001587 | black and white cat walking at the bottom
+001599 | black and white cat walking on the right
+001631 | black and white cat walking on the left
+001682 | black and white cat walking in front of a gray dog
+001695 | black and white cat walking on the right
+001859 | target disappeared
+001881 | black and white cat walking on the left
+002361 | black and white cat lying in front of a gray dog
+002392 | black and white cat lying on the right
+002445 | target disappeared
+002477 | black and white cat lying on the left
+002536 | black and white cat lying in front of a gray dog
+002572 | black and white cat lying on the right
+######################################################################################################
+000000 | brown deer standing in the middle
+000228 | target disappeared
+000311 | brown deer standing on the left
+000332 | brown deer standing on the left
+000555 | brown deer standing on the right
+000593 | brown deer walking in the middle
+000658 | target disappeared
+001095 | brown deer running on the right
+001151 | brown deer running on the left
+001396 | brown deer running in the middle
+001456 | target disappeared
+######################################################################################################
+000000 | brown dog standing near the bottom left corner
+000087 | brown dog running at the bottom
+000100 | target disappeared
+000115 | brown dog running on the left
+000126 | target disappeared
+000217 | target disappeared
+000262 | brown dog running on the right
+000264 | brown dog running on the right
+000307 | target disappeared
+000319 | target disappeared
+000341 | brown dog running on the right
+000360 | target disappeared
+000389 | brown dog running on the left
+000468 | target disappeared
+000539 | brown dog running at the bottom
+000599 | brown dog running on the left
+000693 | target disappeared
+000696 | brown dog running on the left
+000731 | target disappeared
+000733 | brown dog running on the left
+000774 | target disappeared
+000776 | brown dog running on the left
+000812 | target disappeared
+000849 | brown dog running on the left
+000893 | brown dog running on the right
+001010 | brown dog running on the left
+001051 | brown dog running on the right
+001213 | target disappeared
+001214 | brown dog running on the right
+001445 | target disappeared
+001448 | brown dog running on the right
+001576 | target disappeared
+001578 | brown dog running on the right
+001616 | target disappeared
+001621 | brown dog running on the right
+001642 | target disappeared
+001646 | brown dog running on the right
+001651 | target disappeared
+001656 | brown dog running on the right
+001669 | brown dog running on the left
+001685 | brown dog running on the right
+001688 | target disappeared
+001691 | brown dog running on the bottom left
+######################################################################################################
+000000 | brown lizard on the left lying on the floor
+000007 | target disappeared
+000009 | brown lizard lying on the right
+000012 | brown lizard lying on the right
+000226 | brown lizard lying in the middle
+000356 | brown lizard lying on the left
+000417 | brown lizard lying in the middle
+000537 | target disappeared
+000829 | brown lizard lying on the right
+000873 | brown lizard lying on the right
+001317 | brown lizard lying on the left
+001346 | brown lizard lying in the middle
+001384 | target disappeared
+001396 | brown lizard lying on the left
+001444 | target disappeared
+001501 | brown lizard lying in the middle
+001614 | target disappeared
+001818 | brown lizard lying on the right
+001828 | brown lizard lying on the left
+002026 | brown lizard lying on the right
+002091 | brown lizard lying on the left
+002134 | target disappeared
+002155 | brown lizard lying on the left
+002254 | brown lizard lying on the right
+002454 | brown lizard lying on the right
+002460 | brown lizard lying on the left
+002498 | target disappeared
+002500 | brown lizard lying on the left
+002514 | brown lizard lying on the right
+002817 | brown lizard lying on the left
+002849 | target disappeared
+003012 | brown lizard lying on the left
+003017 | brown lizard lying on the left
+003154 | target disappeared
+003185 | brown lizard lying on the left
+003240 | brown lizard lying on the right
+003449 | target disappeared
+003543 | brown lizard lying on the right
+003626 | brown lizard lying on the left
+003679 | brown lizard lying on the right
+003687 | brown lizard lying on the left
+003775 | target disappeared
+003793 | brown lizard lying on the right
+003810 | brown lizard lying on the right
+003921 | brown lizard lying on the left
+004103 | target disappeared
+004123 | brown lizard lying on the left
+004439 | brown lizard lying on the right
+######################################################################################################
+000000 | black and white car running in the distance
+000095 | black and white car running on the top left
+000115 | target disappeared
+000213 | black and white car running on the right
+000249 | black and white car running in the distance
+000279 | black and white car running in the distance
+000574 | black and white car running in the distance
+000620 | black and white car running in the distance
+000828 | black and white car running on the top left in the distance
+000966 | black and white car running in the distance
+001178 | black and white car running on the top left in the distance
+001338 | black and white car running in the distance
+001578 | black and white car running on the top left in the distance
+001757 | black and white car running on the top right in the distance
+001994 | black and white car running in the distance
+002247 | black and white car running on the top right in the distance
+002286 | black and white car running in the distance
+002656 | black and white car running on the top left in the distance
+002701 | target disappeared
+003352 | black and white car running on the right
+003371 | black and white car running on the right
+003403 | black and white car running in the distance
+######################################################################################################
+000000 | white car running in the middle
+000259 | white car running on the right
+000269 | target disappeared
+000286 | white car running on the right
+000300 | white car running at the bottom
+000343 | target disappeared
+000361 | white car running on the left
+000392 | white car running in the middle
+000411 | white car running on the right
+000419 | target disappeared
+000438 | white car running on the right
+000451 | white car running at the top
+000489 | white car running on the left
+000494 | target disappeared
+000512 | white car running on the left
+000530 | white car running in the middle
+000565 | white car running on the right
+000570 | target disappeared
+000604 | white car running at the bottom
+000637 | white car running on the left
+000643 | target disappeared
+000662 | white car running on the left
+000682 | white car running in the middle
+000718 | target disappeared
+000738 | white car running on the top right
+000746 | white car running on the top right
+000755 | white car running at the top
+000785 | white car running on the top left
+000793 | target disappeared
+000813 | white car running on the left
+000845 | white car running in the middle
+000862 | white car running on the right
+000868 | target disappeared
+000888 | white car running on the bottom right
+000909 | white car running at the bottom
+000937 | white car running on the bottom left
+000943 | target disappeared
+000964 | white car running on the left
+000984 | white car running in the middle
+001011 | white car running on the right
+001017 | target disappeared
+001039 | white car running on the top right
+001055 | white car running at the top
+001085 | white car running on the top left
+001092 | target disappeared
+001114 | white car running on the left
+001128 | white car running in the middle
+001165 | white car running on the right
+001167 | target disappeared
+001189 | white car running on the bottom right
+001192 | white car running on the bottom right
+001204 | white car running at the bottom
+001234 | white car running on the bottom left
+001242 | target disappeared
+001264 | white car running on the left
+001280 | white car running in the middle
+001311 | white car running on the right
+001317 | target disappeared
+001339 | white car running on the top right
+001353 | white car running at the top
+001385 | white car running on the top left
+001392 | target disappeared
+001414 | white car running on the left
+001428 | white car running in the middle
+001465 | white car running on the right
+001467 | target disappeared
+001497 | white car running on the bottom right
+001503 | white car running at the bottom
+001534 | white car running on the bottom left
+001542 | target disappeared
+001564 | white car running on the left
+001578 | white car running in the middle
+001611 | white car running on the right
+001618 | target disappeared
+001638 | white car running on the top right
+001653 | white car running at the top
+001684 | white car running on the top left
+001693 | target disappeared
+001713 | white car running on the left
+001731 | white car running in the middle
+001761 | white car running on the right
+001768 | target disappeared
+001788 | white car running on the bottom right
+001796 | white car running on the bottom right
+001808 | white car running at the bottom
+001837 | white car running on the bottom left
+001843 | target disappeared
+001867 | white car running on the left
+001876 | white car running in the middle
+001911 | white car running on the right
+001917 | target disappeared
+001939 | white car running on the top right
+001943 | white car running on the top right
+001957 | white car running at the top
+001983 | white car running on the top left
+001992 | target disappeared
+002014 | white car running on the left
+002017 | white car running on the left
+002036 | white car running in the middle
+002057 | white car running on the right
+002067 | target disappeared
+002089 | white car running on the bottom right
+002096 | white car running on the bottom right
+002105 | white car running at the bottom
+002135 | white car running on the bottom left
+002142 | target disappeared
+002164 | white car running on the left
+002176 | white car running in the middle
+002209 | white car running on the right
+002217 | target disappeared
+002245 | white car running on the top right
+002257 | white car running at the top
+002284 | white car running on the top left
+002292 | target disappeared
+002314 | white car running on the left
+002329 | white car running in the middle
+002359 | white car running on the right
+002367 | target disappeared
+002389 | white car running on the bottom right
+002396 | white car running on the bottom right
+002406 | white car running at the bottom
+002435 | white car running on the bottom left
+002443 | target disappeared
+002463 | white car running on the left
+002478 | white car running in the middle
+002511 | white car running on the right
+002518 | target disappeared
+002538 | white car running on the top right
+002546 | white car running on the top right
+002557 | white car running at the top
+002586 | white car running on the top left
+002592 | target disappeared
+002614 | white car running on the left
+002617 | white car running on the left
+002630 | white car running in the middle
+002661 | white car running on the right
+002668 | target disappeared
+002688 | white car running on the bottom right
+002698 | white car running on the bottom right
+002708 | white car running at the bottom
+002735 | white car running on the bottom left
+002743 | target disappeared
+002763 | white car running on the left
+002765 | white car running on the left
+002776 | white car running in the middle
+002809 | white car running on the right
+002818 | target disappeared
+002838 | white car running on the top right
+002843 | white car running on the top right
+002856 | white car running at the top
+002886 | white car running on the top left
+002893 | target disappeared
+002913 | white car running on the left
+002931 | white car running in the middle
+002959 | white car running on the right
+002968 | target disappeared
+002988 | white car running on the bottom right
+003006 | white car running at the bottom
+003036 | white car running on the bottom left
+003043 | target disappeared
+003063 | white car running on the left
+003080 | white car running in the middle
+003110 | white car running on the right
+003118 | target disappeared
+003138 | white car running on the top right
+003146 | white car running on the top right
+003157 | white car running at the top
+003184 | white car running on the top left
+003193 | target disappeared
+003213 | white car running on the left
+003231 | white car running in the middle
+003261 | white car running on the right
+003268 | target disappeared
+003288 | white car running on the bottom right
+003296 | white car running on the bottom right
+003304 | white car running at the bottom
+003337 | white car running on the bottom left
+003343 | target disappeared
+003363 | white car running on the left
+003365 | white car running on the left
+003377 | white car running in the middle
+003411 | white car running on the right
+003418 | target disappeared
+003438 | white car running on the top right
+003443 | white car running on the top right
+003458 | white car running at the top
+003487 | white car running on the top left
+003493 | target disappeared
+003513 | white car running on the left
+003518 | white car running on the left
+003527 | white car running in the middle
+003558 | white car running on the right
+003568 | target disappeared
+003588 | white car running on the bottom right
+003595 | white car running on the bottom right
+003607 | white car running at the bottom
+003636 | white car running on the bottom left
+003643 | target disappeared
+003663 | white car running on the left
+003665 | white car running on the left
+003679 | white car running in the middle
+003709 | white car running on the right
+003718 | target disappeared
+003738 | white car running on the top right
+003746 | white car running on the top right
+003759 | white car running at the top
+003786 | white car running on the top left
+003793 | target disappeared
+003818 | white car running on the left
+003834 | white car running in the middle
+003863 | white car running on the right
+003867 | target disappeared
+003896 | white car running on the bottom right
+003907 | white car running at the bottom
+003935 | white car running on the bottom left
+003942 | target disappeared
+003964 | white car running on the left
+003968 | white car running on the left
+003987 | white car running in he middle
+004017 | target disappeared
+004043 | white car running on the top right
+004056 | white car running at the top
+004081 | white car running on the top left
+004092 | target disappeared
+004114 | white car running on the left
+004118 | white car running on the left
+004130 | white car running in the middle
+004161 | white car running on the right
+004167 | target disappeared
+004196 | white car running on the bottom right
+004206 | white car running at the bottom
+004234 | white car running on the bottom left
+004242 | target disappeared
+004264 | white car running on the left
+004268 | white car running on the left
+004280 | white car running in the middle
+004311 | white car running on the right
+004317 | target disappeared
+004339 | white car running on the top right
+004343 | white car running on the top right
+004357 | white car running at the top
+004384 | white car running on the top left
+004392 | target disappeared
+004414 | white car running on the left
+004415 | white car running on the left
+004429 | white car running in the middle
+004463 | white car running on the right
+004467 | target disappeared
+004496 | white car running on the bottom right
+004506 | white car running at the bottom
+004533 | white car running on the bottom left
+004542 | target disappeared
+004564 | white car running on the left
+004579 | white car running in the middle
+004613 | white car running on the right
+004617 | target disappeared
+004644 | white car running on the top right
+004656 | white car running at the top
+004682 | white car running on the top left
+004692 | target disappeared
+004717 | white car running on the left
+004729 | white car running in the middle
+004761 | white car running on the right
+004767 | target disappeared
+004795 | white car running on the bottom right
+004804 | white car running at the bottom
+004833 | white car running on the bottom left
+004842 | target disappeared
+004868 | white car running on the left
+004879 | white car running in the middle
+004911 | white car running on the right
+004917 | target disappeared
+004939 | white car running on the top right
+004945 | white car running on the top right
+004954 | white car running at the top
+004985 | white car running on the top left
+004992 | target disappeared
+005014 | white car running on the left
+005019 | white car running on the left
+005030 | white car running in the middle
+005063 | white car running on the right
+005067 | target disappeared
+005089 | white car running on the bottom right
+005095 | white car running on the bottom right
+005105 | white car running at the bottom
+005131 | white car running on the bottom left
+005142 | target disappeared
+005164 | white car running on the left
+005168 | white car running on the left
+005181 | white car running in the middle
+005214 | white car running on the right
+005217 | target disappeared
+005239 | white car running on the top right
+005253 | white car running at the top
+005287 | white car running on the top left
+005292 | target disappeared
+005314 | white car running on the left
+005318 | white car running on the left
+005334 | white car running in the middle
+005361 | white car running on the right
+005367 | target disappeared
+005397 | white car running on the bottom right
+005404 | white car running at the bottom
+005434 | white car running on the bottom left
+005442 | target disappeared
+005464 | white car running on the left
+005466 | white car running on the left
+005481 | white car running in the middle
+005511 | white car running on the right
+005517 | target disappeared
+005539 | white car running on the top right
+005546 | white car running on the top right
+005556 | white car running at the top
+005584 | white car running on the top left
+005592 | target disappeared
+005614 | white car running on the left
+005620 | white car running on the left
+005633 | white car running in the middle
+005663 | white car running on the right
+005667 | target disappeared
+005689 | white car running on the bottom right
+005695 | white car running on the bottom right
+005708 | white car running at the bottom
+005733 | white car running on the bottom left
+005742 | target disappeared
+005764 | white car running on the left
+005770 | white car running on the left
+005784 | white car running in the middle
+005810 | white car running on the right
+005817 | target disappeared
+005839 | white car running at the top right
+005853 | white car running at the top
+005887 | white car running on the top left
+005892 | target disappeared
+005914 | white car running on the left
+005919 | white car running on the left
+005932 | white car running in the middle
+005961 | white car running on the right
+005968 | target disappeared
+005989 | white car running on the bottom right
+005995 | white car running on the bottom right
+006005 | white car running at the bottom
+006035 | white car running on the bottom left
+006042 | target disappeared
+006064 | white car running on the left
+006070 | white car running on the left
+006079 | white car running in the middle
+006111 | white car running on the right
+006117 | target disappeared
+006139 | white car running on the top right
+006143 | white car running on the top right
+006155 | white car running at the top
+006184 | white car running on the top left
+006193 | target disappeared
+006213 | white car running on the left
+006221 | white car running on the left
+006230 | white car running in the middle
+006262 | white car running on the right
+006267 | target disappeared
+006288 | white car running on the bottom right
+006294 | white car running on the bottom right
+006311 | white car running at the bottom
+006333 | white car running on the bottom left
+006342 | target disappeared
+006364 | white car running on the left
+006370 | white car running on the left
+006380 | white car running in the middle
+006412 | white car running on the right
+006417 | target disappeared
+006439 | white car running on the top right
+006445 | white car running on the top right
+006462 | white car running at the top
+006487 | white car running on the top left
+006492 | target disappeared
+006514 | white car running on the left
+006518 | white car running on the left
+006534 | white car running in the middle
+006562 | white car running on the right
+006567 | target disappeared
+006589 | white car running on the bottom right
+006596 | white car running on the bottom right
+006609 | white car running at the bottom
+006636 | white car running on the bottom left
+006642 | target disappeared
+006664 | white car running on the left
+006667 | white car running on the left
+006680 | white car running in the middle
+006706 | white car running on the right
+006718 | target disappeared
+006738 | white car running on the top right
+006746 | white car running on the top right
+006757 | white car running at the top
+006769 | white car running on the top left
+006792 | target disappeared
+006814 | white car running on the left
+006820 | white car running on the left
+006830 | white car running in the middle
+006860 | white car running on the right
+006867 | target disappeared
+006889 | white car running on the bottom right
+006893 | white car running on the bottom right
+006906 | white car running at the bottom
+006938 | white car running on the bottom left
+006942 | target disappeared
+006964 | white car running on the left
+006968 | white car running on the left
+006981 | white car running in the middle
+007007 | white car running on the right
+007017 | target disappeared
+007039 | white car running on the top right
+007047 | white car running on the top right
+007057 | white car running at the top
+007087 | white car running on the top left
+007092 | target disappeared
+007114 | white car running on the left
+007120 | white car running on the left
+007133 | white car running in the middle
+007161 | white car running on the right
+007167 | target disappeared
+007189 | white car running on the bottom right
+007194 | white car running on the bottom right
+007204 | white car running at the bottom
+007233 | white car running on the bottom left
+007242 | target disappeared
+007264 | white car running on the left
+007269 | white car running on the left
+007279 | white car running in the middle
+007309 | white car running on the right
+007318 | target disappeared
+007338 | white car running on the top right
+007346 | white car running on the top right
+007356 | white car running at the top
+007385 | white car running on the top left
+007392 | target disappeared
+007414 | white car running on the left
+007418 | white car running on the left
+007430 | white car running in the middle
+007461 | white car running on the right
+007467 | target disappeared
+007497 | white car running on the bottom right
+007509 | white car running at the bottom
+007535 | white car running on the bottom left
+007543 | target disappeared
+007563 | white car running on the left
+007568 | white car running on the left
+007581 | white car running in the middle
+007608 | white car running on the right
+007617 | target disappeared
+007639 | white car running on the top right
+007643 | white car running on the top right
+007658 | white car running at the top
+007688 | white car running on the top left
+007692 | target disappeared
+007714 | white car running on the left
+007718 | white car running on the left
+007731 | white car running in the middle
+007762 | white car running on the right
+007767 | target disappeared
+007789 | white car running on the bottom right
+007797 | white car running on the bottom right
+007810 | white car running at the bottom
+007834 | white car running on the bottom left
+007842 | target disappeared
+007864 | white car running on the left
+007869 | white car running on the left
+007881 | white car running in the middle
+007914 | white car running on the right
+007917 | target disappeared
+007946 | white car running on the top right
+007958 | white car running at the top
+007985 | white car running on the top left
+007992 | target disappeared
+008014 | white car running on the left
+008017 | white car running on the left
+008030 | white car running in the middle
+008060 | white car running on the right
+008067 | target disappeared
+008089 | white car running on the bottom right
+008095 | white car running on the bottom right
+008105 | white car running at the bottom
+008135 | white car running on the bottom left
+008142 | target disappeared
+008164 | white car running on the left
+008170 | white car running on the left
+008182 | white car running in the middle
+008210 | white car running on the right
+008217 | target disappeared
+008238 | white car running on the top right
+008246 | white car running on the top right
+008256 | white car running at the top
+008286 | white car running on the top left
+008293 | target disappeared
+008314 | white car running on the left
+008319 | white car running on the left
+008337 | white car running in the middle
+008361 | white car running on the right
+008367 | target disappeared
+008388 | white car running on the bottom right
+008396 | white car running on the bottom right
+008406 | white car running at the bottom
+008435 | white car running on the bottom left
+008443 | target disappeared
+008463 | white car running on the left
+008466 | white car running on the left
+008479 | white car running in the middle
+008510 | white car running on the right
+008518 | target disappeared
+008538 | white car running on the top right
+008542 | white car running on the top right
+008555 | white car running at the top
+008584 | white car running on the top left
+008593 | target disappeared
+008613 | white car running on the left
+008619 | white car running on the left
+008630 | white car running in the middle
+008662 | white car running on the right
+008668 | target disappeared
+008688 | white car running on the bottom right
+008702 | white car running at the bottom
+008736 | white car running on the bottom left
+008743 | target disappeared
+008763 | white car running on the left
+008767 | white car running on the left
+008781 | white car running in the middle
+008809 | white car running on the right
+008818 | target disappeared
+008843 | white car running on the top right
+008856 | white car running at the top
+008884 | white car running on the top left
+008893 | target disappeared
+008913 | white car running on the left
+008917 | white car running on the left
+008928 | white car running in the middle
+008959 | white car running on the right
+008968 | target disappeared
+008988 | white car running on the bottom right
+008995 | white car running on the bottom right
+009008 | white car running at the bottom
+009031 | white car running on the bottom left
+009043 | target disappeared
+009070 | white car running on the left
+009093 | white car running in the middle
+009109 | white car running on the right
+009118 | target disappeared
+009138 | white car running on the top right
+009144 | white car running on the top right
+009155 | white car running at the top
+009187 | white car running on the top left
+009192 | target disappeared
+009214 | white car running on the left
+009218 | white car running on the left
+009230 | white car running in the middle
+009258 | white car running on the right
+009268 | target disappeared
+009289 | white car running on the bottom right
+009296 | white car running on the bottom right
+009307 | white car running at the bottom
+009333 | white car running on the bottom left
+009342 | target disappeared
+009364 | white car running on the left
+009368 | white car running on the left
+009380 | white car running in the middle
+009406 | white car running on the right
+009418 | target disappeared
+009445 | white car running on the top right
+009458 | white car running at the top
+009484 | white car running on the top left
+009492 | target disappeared
+009514 | white car running on the left
+009518 | white car running on the left
+009531 | white car running in the middle
+009562 | white car running on the right
+009567 | target disappeared
+009588 | white car running on the bottom right
+009595 | white car running on the bottom right
+009602 | white car running at the bottom
+009635 | white car running on the bottom left
+009643 | target disappeared
+009663 | white car running on the left
+009665 | white car running on the left
+009676 | white car running in the middle
+009709 | white car running on the right
+009718 | target disappeared
+009741 | white car running on the top right
+009754 | white car running at the top
+009786 | white car running on the top left
+009792 | target disappeared
+009814 | white car running on the left
+009820 | white car running on the left
+009833 | white car running in the middle
+009858 | white car running on the right
+009867 | target disappeared
+009889 | white car running on the bottom right
+009896 | white car running on the bottom right
+009905 | white car running at the bottom
+009934 | white car running on the bottom left
+009942 | target disappeared
+009964 | white car running on the left
+009967 | white car running on the left
+009976 | white car running in the middle
+010007 | white car running on the right
+010017 | target disappeared
+010038 | white car running on the top right
+010044 | white car running on the top right
+010063 | white car running at the top
+010087 | white car running on the top left
+010093 | target disappeared
+010113 | white car running on the left
+010118 | white car running on the left
+010130 | white car running in the middle
+010159 | white car running on the right
+010167 | target disappeared
+010193 | white car running on the bottom right
+010204 | white car running at the bottom
+010236 | white car running on the bottom left
+010243 | target disappeared
+010263 | white car running on the left
+010268 | white car running on the left
+010280 | white car running in the middle
+010311 | white car running on the right
+010318 | target disappeared
+010338 | white car running on the top right
+010344 | white car running on the top right
+010354 | white car running at the top
+010384 | white car running on the top left
+010392 | target disappeared
+010414 | white car running on the left
+010421 | white car running on the left
+010430 | white car running in the middle
+010454 | white car running on the right
+010467 | target disappeared
+010493 | white car running on the bottom right
+010504 | white car running at the bottom
+010532 | white car running on the bottom left
+010543 | target disappeared
+010564 | white car running on the left
+010568 | white car running on the left
+010582 | white car running in the middle
+010609 | white car running on the right
+010617 | target disappeared
+010639 | white car running on the top right
+010646 | white car running on the top right
+010657 | white car running at the top
+010684 | white car running on the top left
+010692 | target disappeared
+010714 | white car running on the left
+010716 | white car running on the left
+010729 | white car running in the middle
+010760 | white car running on the right
+010767 | target disappeared
+010789 | white car running on the bottom right
+010795 | white car running on the bottom right
+010806 | white car running at the bottom
+010835 | white car running on the bottom left
+010843 | target disappeared
+010864 | white car running on the left
+010870 | white car running on the left
+010878 | white car running in the middle
+010908 | white car running on the right
+010917 | target disappeared
+010939 | white car running on the top right
+010942 | white car running on the top right
+010955 | white car running at the top
+010984 | white car running on the top left
+010992 | target disappeared
+011014 | white car running on the left
+011022 | white car running on the left
+011036 | white car running in the middle
+011061 | white car running on the right
+011067 | target disappeared
+011089 | white car running on the bottom right
+011094 | white car running on the bottom right
+011110 | white car running at the bottom
+011135 | white car running on the bottom left
+011142 | target disappeared
+011164 | white car running on the left
+011166 | white car running on the left
+011178 | white car running in the middle
+011212 | white car running on the right
+011217 | target disappeared
+011244 | white car running on the top right
+011256 | white car running at the top
+011283 | white car running on the top left
+011292 | target disappeared
+011314 | white car running on the left
+011320 | white car running on the left
+011331 | white car running in the middle
+011357 | white car running on the right
+011367 | target disappeared
+011389 | white car running on the bottom right
+011395 | white car running on the bottom right
+011407 | white car running at the bottom
+011435 | white car running on the bottom left
+011442 | target disappeared
+011464 | white car running on the left
+011467 | white car running on the left
+011481 | white car running in the middle
+011508 | white car running on the right
+011517 | target disappeared
+011539 | white car running on the top right
+011544 | white car running on the top right
+011556 | white car running at the top
+011583 | white car running on the top left
+011592 | target disappeared
+011613 | white car running on the left
+011619 | white car running on the left
+011630 | white car running in the middle
+011662 | white car running on the right
+011667 | target disappeared
+011689 | white car running on the bottom right
+011694 | white car running on the bottom right
+011724 | white car running at the bottom
+011735 | white car running on the bottom left
+011742 | target disappeared
+011764 | white car running on the left
+011768 | white car running on the left
+011781 | white car running in the middle
+011810 | white car running on the right
+011817 | target disappeared
+011839 | white car running on the top right
+011843 | white car running on the top right
+011855 | white car running at the top
+011887 | white car running on the top left
+011892 | target disappeared
+011913 | white car running on the left
+011920 | white car running on the left
+011931 | white car running in the middle
+011959 | white car running on the right
+011967 | target disappeared
+011989 | white car running on the bottom right
+011996 | white car running on the bottom right
+012008 | white car running at the bottom
+012033 | white car running on the bottom left
+012042 | target disappeared
+012064 | white car running on the left
+012068 | white car running on the left
+012080 | white car running in the middle
+012107 | white car running on the right
+012117 | target disappeared
+012139 | white car running on the top right
+012146 | white car running on the top right
+012157 | white car running at the top
+012185 | white car running on the top left
+012192 | target disappeared
+012214 | white car running on the left
+012218 | white car running on the left
+012230 | white car running in the middle
+012260 | white car running on the right
+012267 | target disappeared
+012289 | white car running on the bottom right
+012296 | white car running on the bottom right
+012305 | white car running at the bottom
+012334 | white car running on the bottom left
+012342 | target disappeared
+012364 | white car running on the left
+012370 | white car running on the left
+012382 | white car running in the middle
+012409 | white car running on the right
+012417 | target disappeared
+012439 | white car running on the top right
+012447 | white car running on the top right
+012458 | white car running at the top
+012483 | white car running on the top left
+012492 | target disappeared
+######################################################################################################
+000000 | brown dog on the right
+000126 | brown dog on the left
+000153 | brown dog on the right
+000254 | target disappeared
+000262 | brown dog on the right
+000270 | brown dog on the right
+001033 | brown dog in the middle
+001266 | target disappeared
+001321 | brown dog on the left
+001325 | brown dog on the left
+001343 | brown dog in the middle
+001356 | brown dog on the right
+001705 | target disappeared
+001724 | brown dog on the left
+001731 | brown dog in the middle
+001748 | brown dog on the right
+001764 | target disappeared
+001823 | brown dog on the right
+001979 | brown dog in the middle
+002268 | target disappeared
+002275 | brown dog on the right
+002403 | brown dog in the middle
+002602 | target disappeared
+002640 | brown dog on the left
+002653 | brown dog on the left
+002696 | brown dog on the right
+002866 | brown dog in the middle
+######################################################################################################
+000000 | white ball being held by the man
+000017 | white ball flying in the air
+000056 | white ball lying on the man's head
+000267 | target disappeared
+000289 | white ball flying in the air
+000292 | white ball flying in the air
+000342 | target disappeared
+000364 | white ball lying on the man's back
+000371 | white ball lying on the man's back
+000402 | white ball flying in the air
+000417 | target disappeared
+000442 | white ball lying on the man's body
+000456 | white ball flying in the air
+000492 | target disappeared
+000514 | white ball flying in the air
+000516 | white ball flying in the air
+000567 | target disappeared
+000589 | white ball lying on the man's body
+000596 | white ball lying on the man's body
+000642 | target disappeared
+000664 | white ball lying on the man's body
+000718 | target disappeared
+000738 | white ball lying on the man's body
+000793 | target disappeared
+000814 | white ball lying on the man's body
+000868 | target disappeared
+000889 | white ball lying on the man's body
+000895 | white ball lying on the man's body
+000934 | white ball flying in the air
+000942 | target disappeared
+000964 | white ball flying in the air
+001017 | target disappeared
+001039 | white ball flying in the air
+001092 | target disappeared
+001114 | white ball flying in the air
+001167 | target disappeared
+001189 | white ball flying in the air
+001242 | target disappeared
+001264 | white ball flying in the air
+001317 | target disappeared
+001339 | white ball flying in the air
+001392 | target disappeared
+001414 | white ball flying in the air
+001467 | target disappeared
+001489 | white ball flying in the air
+001542 | target disappeared
+001564 | white ball lying on the man's body
+001617 | target disappeared
+001639 | white ball lying on the man's body
+001692 | target disappeared
+001714 | white ball lying on the man's body
+001767 | target disappeared
+001789 | white ball flying in the air
+001842 | target disappeared
+001864 | white ball flying in the air
+001917 | target disappeared
+001939 | white ball flying in the air
+001992 | target disappeared
+002014 | white ball flying in the air
+002067 | target disappeared
+002089 | white ball flying in the air
+002142 | target disappeared
+002164 | white ball flying in the air
+002217 | target disappeared
+002239 | white ball flying in the air
+######################################################################################################
+000000 | person in blue shirt walking in the middle
+000282 | person in blue shirt walking on the right
+000561 | person in blue shirt walking in the middle
+000727 | person in blue shirt walking on the right
+000831 | person in blue shirt walking in the middle
+000936 | person in blue shirt walking on the right
+001243 | person in blue shirt walking in the middle
+001606 | person in blue shirt walking on the right
+001744 | person in blue shirt walking in the middle
+001855 | person in blue shirt walking on the left
+001964 | person in blue shirt walking in the middle
+002330 | person in blue shirt walking on the left
+002456 | person in blue shirt walking in the middle
+002816 | person in blue shirt walking on the left
+003065 | person in blue shirt walking in the middle
+003167 | person in blue shirt walking on the left
+003222 | person in blue shirt walking in the middle
+003369 | person in blue shirt walking on the right
+003507 | person in blue shirt walking in the middle
+003626 | person in blue shirt walking on the left
+003913 | person in blue shirt walking in the middle
+######################################################################################################
+000000 | person in white shirt running on the left of two persons in black
+000097 | target disappeared
+000141 | person in white shirt running on the left next to the person in black
+000580 | target disappeared
+000603 | person in white shirt running on the left next to the person in black
+001121 | person in white shirt running in the middle
+001188 | person in white shirt running on the right next to the person in black
+001324 | person in white shirt running on the left
+001414 | target disappeared
+001539 | person in white shirt running on the right
+001719 | person in white shirt running in the middle
+001789 | person in white shirt running on the left
+002136 | person in white shirt running on the right next to the person in black
+002365 | target disappeared
+002382 | person in white shirt standing at the bottom
+002539 | target disappeared
+002646 | person in white shirt running on the left
+######################################################################################################
+000000 | person in green waking in the middle
+001080 | person in green waking on the left
+001834 | target disappeared
+001941 | person in green waking on the left
+002169 | person in green waking in the middle
+002254 | target disappeared
+002262 | person in green waking in the middle
+002296 | target disappeared
+002328 | person in green waking in the middle
+002935 | person in green waking on the left
+003344 | person in green waking in the middle
+003409 | person in green waking on the right
+004165 | person in green waking in the middle
+004455 | person in green waking on the right
+004829 | person in green waking in the middle
+004861 | target disappeared
+004905 | person in green waking in the middle
+005107 | target disappeared
+005121 | person in green waking in the middle
+005308 | person in green waking on the right
+######################################################################################################
+000000 | red and white helicopter landing on the grass
+000460 | red and white helicopter flying above the grass
+001627 | target disappeared
+001838 | red and white helicopter flying above the grass
+001848 | target disappeared
+001853 | red and white helicopter flying above the grass
+002291 | red and white helicopter flying in the air
+002462 | target disappeared
+002470 | red and white helicopter flying above the grass
+003121 | target disappeared
+003128 | red and white helicopter flying in the air
+003359 | target disappeared
+003386 | red and white helicopter flying in the air
+004003 | target disappeared
+004015 | red and white helicopter flying above the grass
+######################################################################################################
+000000 | a person in gray and a horse walking on the left
+003238 | a person in gray and a horse walking on the right
+004489 | target disappeared
+004626 | a person in gray and a horse walking on the left
+004638 | a person in gray and a horse walking on the left
+004715 | target disappeared
+004814 | a person in gray and a horse walking on the left
+004941 | a person in gray and a horse walking on the right
+005368 | a person in gray and a horse walking on the left
+009313 | a person in gray and a horse walking on the right
+011665 | a person in gray and a horse walking on the left
+013695 | a person in gray and a horse walking on the right
+014173 | a person in gray and a horse walking on the left
+######################################################################################################
+000000 | person in blue standing on the beach
+000934 | person in blue surfing waves
+002731 | person in blue waking on the beach in the middle
+003448 | person in blue waking on the beach on the left of a person in black
+003623 | person in blue waking on the beach in the middle
+######################################################################################################
+000000 | black and white car running ahead
+000010 | black and white car running on the left
+000280 | black and white car running on the right
+000429 | target disappeared
+001457 | black and white car running on the left
+001496 | black and white car running in the middle
+001882 | black and white car running on the left
+002148 | black and white car running on the right
+002324 | black and white car running in the middle
+002563 | black and white car running on the right
+002867 | black and white car running in the middle
+003712 | target disappeared
+004092 | black and white car running in the middle
+004432 | black and white car running on the right
+004636 | black and white car running in the middle
+004869 | black and white car running on the right
+005678 | target disappeared
+006141 | black and white car running in the middle
+006607 | black and white car running on the right
+006754 | black and white car running on the left
+006876 | black and white car running in the middle
+007629 | black and white car running on the left
+007700 | black and white car running in the middle
+007921 | black and white car running on the left
+008052 | black and white car running in the middle
+008147 | black and white car running on the right
+008378 | black and white car running on the left
+008530 | black and white car running on the right
+009096 | black and white car running in the middle
+009130 | black and white car running on the left
+009185 | black and white car running on the right
+009377 | black and white car running on the left
+009665 | black and white car running in the middle
+009880 | black and white car running on the right
+010194 | target disappeared
+010298 | black and white car running in the middle
+010321 | target disappeared
+010380 | black and white car running in the middle
+010470 | black and white car running on the left
+010503 | black and white car running in the middle
+010591 | black and white car running on the left
+010801 | black and white car running in the middle
+010904 | black and white car running on the right
+011270 | black and white car running in the middle
+011374 | black and white car running on the right
+011473 | black and white car running in the middle
+011664 | black and white car running on the right
+011809 | black and white car running on the left
+011876 | black and white car running in the middle
+012004 | black and white car running on the right
+012132 | black and white car running on the left
+012172 | black and white car running in the middle
+012307 | black and white car running on the right
+012352 | black and white car running in the middle
+012429 | black and white car running on the left
+012507 | black and white car running in the middle
+012646 | black and white car running on the left
+012743 | black and white car running in the middle
+012894 | black and white car running on the left
+012958 | black and white car running in the middle
+013760 | black and white car running on the left
+013874 | black and white car running in the middle
+013931 | target disappeared
+014575 | black and white car running in the middle
+014594 | target disappeared
+014622 | black and white car running in the middle
+015017 | target disappeared
+015101 | black and white car running on the right
+015255 | black and white car running in the middle
+015488 | black and white car running on the left
+015576 | black and white car running on the right
+015644 | black and white car running in the middle
+015680 | target disappeared
+015694 | black and white car running in the middle
+016136 | black and white car running on the left
+016260 | black and white car running on the right
+016372 | black and white car running on the right
+016402 | black and white car running on the left
+016518 | black and white car running on the right
+016837 | black and white car running on the left
+016912 | black and white car running on the right
+017048 | black and white car running on the left
+017554 | black and white car running on the right
+017950 | black and white car running on the left
+017959 | target disappeared
+017979 | black and white car running on the left
+017991 | black and white car running on the left
+018059 | target disappeared
+018064 | black and white car running on the left
+018125 | black and white car running in the middle
+018288 | black and white car running on the right
+018456 | black and white car running in the middle
+018653 | black and white car running on the right
+018831 | black and white car running in the middle
+019219 | black and white car running on the right
+019317 | black and white car running in the middle
+019849 | target disappeared
+019972 | black and white car running on the right
+019994 | target disappeared
+020033 | black and white car running on the right
+020117 | black and white car running in the middle
+020263 | black and white car running on the right
+020451 | target disappeared
+020508 | black and white car running in the middle
+020529 | black and white car running in the middle
+020644 | black and white car running on the left
+020681 | black and white car running in the middle
+020968 | target disappeared
+020985 | black and white car running on the right
+021000 | black and white car running on the right
+021083 | black and white car running in the middle
+021183 | black and white car running on the right
+021239 | black and white car running in the middle
+021302 | black and white car running on the left
+021515 | black and white car running on the right
+021914 | black and white car running on the left
+021963 | black and white car running in the middle
+022317 | black and white car running on the left
+022400 | target disappeared
+022480 | black and white car running in the middle
+022494 | black and white car running on the left
+022622 | black and white car running in the middle
+022768 | black and white car running on the right
+023101 | black and white car running in the middle
+023484 | target disappeared
+023549 | black and white car running on the left
+023954 | black and white car running in the middle
+023964 | black and white car running on the left
+024382 | black and white car running on the right
+024726 | target disappeared
+024767 | black and white car running on the left
+024802 | target disappeared
+024822 | black and white car running on the left
+025017 | black and white car running on the left
+025233 | target disappeared
+025267 | black and white car running on the left
+025302 | black and white car running in the middle
+026141 | target disappeared
+026168 | black and white car running in the middle
+026201 | black and white car running on the left
+026345 | black and white car running in the middle
+026364 | black and white car running on the left
+026436 | black and white car running in the middle
+026535 | black and white car running on the right
+026555 | black and white car running in the middle
+026598 | black and white car running on the right
+026618 | black and white car running in the middle
+026640 | black and white car running on the left
+026744 | black and white car running in the middle
+026855 | black and white car running on the right
+026969 | black and white car running on the left
+027164 | black and white car running in the middle
+027304 | target disappeared
+027400 | black and white car running in the middle
+027587 | black and white car running on the right
+027703 | black and white car running in the middle
+028538 | target disappeared
+028595 | black and white car running on the left
+028686 | black and white car running in the middle
+028734 | black and white car running on the left
+028907 | target disappeared
+028974 | black and white car running in the middle
+029075 | target disappeared
+029160 | black and white car running in the middle
+029296 | target disappeared
+029396 | target disappeared
+######################################################################################################
+000000 | person in black standing on the board
+000543 | target disappeared
+000585 | person in black standing on the board
+000662 | target disappeared
+000681 | person in black standing on the board
+000729 | target disappeared
+000744 | person in black standing on the board
+000766 | target disappeared
+000777 | person in black standing on the board
+001288 | target disappeared
+001375 | person in black moving on the middle left
+001845 | person in black moving in the middle
+001963 | target disappeared
+001994 | person in black moving on the right
+002095 | target disappeared
+002162 | person in black moving on the right
+002207 | target disappeared
+002249 | person in black moving on the right
+002279 | target disappeared
+002294 | person in black moving on the right
+002329 | target disappeared
+002382 | person in black moving on the right
+002421 | target disappeared
+003499 | person in black moving on the left
+003545 | target disappeared
+003551 | person in black moving on the left
+003587 | target disappeared
+003596 | person in black moving on the left
+003734 | person in black moving on the right
+003824 | person in black moving in the middle
+004094 | person in black moving on the right
+004300 | person in black moving in the middle
+004529 | person in black moving on the left
+004578 | person in black moving on the right
+004896 | person in black moving on the left
+005052 | person in black moving on the right
+005160 | person in black moving on the middle left
+005349 | target disappeared
+005397 | person in black moving on the middle left
+006011 | target disappeared
+006023 | person in black moving on the middle left
+006098 | target disappeared
+006108 | person in black moving on the middle left
+006149 | target disappeared
+006154 | person in black moving on the middle right
+006226 | target disappeared
+006246 | person in black moving on the middle left
+006859 | person in black moving on the right
+######################################################################################################
+000000 | blue car running on the left
+000322 | blue car running on the right
+000505 | blue car running in the middle
+000532 | blue car running on the right
+001840 | target disappeared
+001913 | blue car running in the middle
+002074 | blue car running on the right
+002162 | blue car running in the middle
+002700 | blue car running on the right
+002744 | blue car running in the middle
+002818 | blue car running on the left
+002931 | blue car running in the middle
+002971 | blue car running on the left
+003170 | blue car running on the right
+003331 | blue car running on the left
+003464 | blue car running in the middle
+003621 | blue car running on the right
+003687 | blue car running on the left
+003707 | target disappeared
+######################################################################################################
+000000 | blue parachute flying on the right
+001046 | blue parachute flying in front
+001285 | target disappeared
+001556 | blue parachute flying on the left
+002255 | target disappeared
+002264 | blue parachute flying on the right
+######################################################################################################
+000000 | person in white waking on the right
+000121 | person in white waking at the top
+000392 | person in white waking on the left
+000514 | person in white waking at the top
+002535 | person in white waking on the right
+######################################################################################################
+000000 | person in white waking at the top
+000115 | person in white waking at the bottom
+000250 | person in white waking on the right
+001044 | person in white waking at the top
+001799 | person in white waking in the middle
+001888 | person in white waking at the top
+002121 | person in white waking in the middle
+002423 | person in white waking at the bottom
+######################################################################################################
+000000 | person in red walking on the middle right
+000265 | person in red walking at the top
+001581 | person in red walking in the middle
+001932 | person in red walking on the middle right
+002055 | person in red walking at the top
+######################################################################################################
+000000 | person in red walking at the top
+000327 | person in red walking in the middle
+000349 | person in red walking on the middle right
+000405 | person in red walking in the middle
+000447 | person in red walking on the middle left
+000509 | person in red walking at the top
+000647 | person in red walking at the top
+000675 | person in red walking on the middle right
+000694 | target disappeared
+000723 | person in red walking at the bottom
+000754 | person in red walking on the middle left
+000863 | person in red walking at the bottom
+000924 | person in red walking on the middle left
+001112 | person in red walking in the middle
+001201 | target disappeared
+001242 | person in red walking on the bottom left
+001260 | person in red walking in the middle
+001366 | person in red walking in the middle
+001499 | person in red walking on the bottom right
+001547 | person in red walking at the top
+001779 | person in red walking in the middle
+001813 | person in red walking on the bottom right
+001849 | person in red walking in the middle
+002054 | person in red walking in the middle
+######################################################################################################
+000000 | person in white running on the right
+000148 | target disappeared
+000186 | person in white running on the left
+000206 | person in white running on the left
+000321 | person in white running in the middle
+002012 | person in white running at the bottom
+002243 | person in white running on the left
+002763 | person in white running on the right
+######################################################################################################
+000000 | person in green walking in the middle
+000571 | target disappeared
+000603 | person in green walking in the middle
+001405 | target disappeared
+001431 | person in green walking in the middle
+002182 | person in green walking on the grass
+######################################################################################################
+000000 | person in black with white hat walking on the right
+000644 | person in black with white hat walking on the middle left
+001075 | target disappeared
+001170 | person in black with white hat walking at the bottom
+001390 | person in black with white hat walking on the left
+001575 | person in black with white hat walking in the middle
+001757 | person in black with white hat walking at the bottom
+001906 | target disappeared
+001986 | person in black with white hat walking in the middle
+002358 | person in black with white hat walking on the right
+003094 | target disappeared
+003210 | person in black with white hat walking on the right
+003286 | target disappeared
+003300 | person in black with white hat walking on the right
+003458 | person in black with white hat walking at the bottom
+003583 | target disappeared
+003612 | person in black with white hat walking at the bottom
+003635 | person in black with white hat walking at the top
+003679 | target disappeared
+003696 | person in black with white hat walking in the middle
+004089 | person in black with white hat walking at the top
+######################################################################################################
+000000 | person in black with white hat walking on the left
+000115 | person in black with white hat walking at the bottom
+000201 | person in black with white hat walking on the right
+000262 | person in black with white hat walking on the left
+000946 | person in black with white hat walking on the right
+000996 | person in black with white hat walking on the left
+001302 | person in black with white hat walking on the right
+001405 | person in black with white hat walking on the left
+001526 | person in black with white hat walking on the right
+######################################################################################################
+000000 | person in black and yellow standing on the skateboard
+000286 | person in black and yellow standing on the skateboard near the right side
+000338 | target disappeared
+000643 | person in black and yellow standing on the skateboard near the left side
+000692 | person in black and yellow standing on the skateboard
+001066 | person in black and yellow standing on the skateboard near the left side
+001199 | person in black and yellow standing on the skateboard near the right side
+001427 | person in black and yellow standing on the skateboard
+001470 | person in black and yellow standing on the skateboard near the right side
+001526 | target disappeared
+######################################################################################################
+000000 | face of the man on the right side
+000140 | target disappeared
+000250 | face of the man on the right side
+000285 | target disappeared
+000388 | face of the man on the right side
+000421 | target disappeared
+000530 | face of the man on the right side
+000679 | face of the man in the middle
+000766 | target disappeared
+000823 | face of the man on the right side
+001343 | target disappeared
+001386 | face of the man in the middle
+001552 | face of the man on the right side
+001587 | target disappeared
+001695 | face of the man on the right side
+001843 | target disappeared
+002014 | face of the man on the right side
+003234 | target disappeared
+003312 | face of the man on the right side
+######################################################################################################
+000000 | person in blue skiing on the right
+000019 | person in blue skiing on the left
+000069 | person in blue skiing on the right
+000138 | target disappeared
+000180 | person in blue skiing on the right
+000203 | target disappeared
+000305 | person in blue skiing at the top
+000318 | person in blue skiing in the middle
+000369 | person in blue skiing on the right
+000416 | target disappeared
+000608 | person in blue skiing on the right
+000638 | person in blue skiing in the middle
+000888 | target disappeared
+000894 | person in blue skiing at the top
+001280 | target disappeared
+001288 | person in blue skiing at the top
+001331 | person in blue skiing on the left
+001340 | target disappeared
+001341 | person in blue skiing at the top
+001412 | target disappeared
+001425 | person in blue skiing on the top right
+001494 | person in blue skiing in the middle
+001542 | person in blue skiing on the left
+001611 | person in blue skiing at the top
+001667 | person in blue skiing on the right
+001700 | person in blue skiing at the top
+001739 | person in blue skiing in the middle
+001753 | target disappeared
+001763 | person in blue skiing at the top
+001791 | target disappeared
+001808 | person in blue skiing at the top
+001916 | person in blue skiing in the middle
+001946 | person in blue skiing at the top
+002033 | target disappeared
+002116 | person in blue skiing at the top
+002158 | person in blue skiing on the top right
+002195 | person in blue skiing in the middle
+002231 | target disappeared
+002239 | person in blue skiing at the top
+002315 | person in blue skiing in the middle
+002388 | person in blue skiing on the left
+002580 | person in blue skiing on the right
+002622 | person in blue skiing at the top
+######################################################################################################
+000000 | person in brown standing on the right
+000752 | person in brown standing on the left
+001524 | person in brown standing on the right
+002516 | target disappeared
+003225 | person in brown standing on the top right
+003280 | person in brown standing in the middle
+003464 | person in brown standing on the left
+######################################################################################################
+000000 | person in blue standing at the bottom
+000073 | person in blue standing on the left
+000114 | target disappeared
+000141 | person in blue standing at the top
+000186 | person in blue falling on the top right
+000225 | person in blue falling on the right
+000265 | target disappeared
+000293 | person in blue falling at the bottom
+000395 | person in blue falling on the left
+000413 | target disappeared
+000438 | person in blue falling at the top
+000518 | target disappeared
+000523 | person in blue falling on the right
+000565 | target disappeared
+000593 | person in blue falling at the bottom
+000686 | person in blue falling on the left
+000713 | target disappeared
+000738 | person in blue falling at the top
+000866 | target disappeared
+000893 | person in blue climbing at the bottom
+000988 | person in blue climbing on the left
+001013 | target disappeared
+001038 | person in blue climbing at the top
+001134 | person in blue sitting on the right
+001165 | target disappeared
+001194 | person in blue sitting at the bottom
+001289 | person in blue sitting on the left
+001313 | target disappeared
+001339 | person in blue sitting at the top
+001439 | person in blue sitting on the right
+001465 | target disappeared
+001494 | person in blue sitting at the bottom
+001603 | person in blue sitting on the left
+001613 | target disappeared
+001638 | person in blue sitting at the top
+001748 | person in blue sitting on the right
+001765 | target disappeared
+001793 | person in blue sitting at the bottom
+001894 | person in blue standing on the left
+001913 | target disappeared
+001938 | person in blue standing at the top
+002050 | person in blue standing on the right
+002066 | target disappeared
+002093 | person in blue standing at the bottom
+002184 | person in blue standing on the left
+002214 | target disappeared
+002237 | person in blue standing at the top
+######################################################################################################
+000000 | white plane flying on the bottom left
+000188 | white plane flying on the left
+000252 | white plane flying at the bottom
+000285 | white plane flying on the bottom right
+000325 | white plane flying in the middle
+000356 | white plane flying at the top
+000413 | white plane flying in the middle
+000483 | white plane flying on the right
+000621 | white plane flying in the middle
+000834 | white plane flying on the bottom left
+000908 | white plane flying on the left
+001140 | white plane flying at the top
+001173 | white plane flying on the top left
+001231 | white plane flying at the top
+001277 | white plane flying on the top left
+001327 | white plane flying at the top
+001336 | target disappeared
+001350 | white plane flying at the top
+001371 | white plane flying on the top left
+001470 | white plane flying at the top
+001528 | white plane flying on the right
+001621 | white plane flying in the middle
+001647 | white plane flying at the bottom
+001674 | white plane flying in the middle
+001709 | white plane flying at the top
+001835 | white plane flying at the top
+001966 | white plane flying in the middle
+002131 | white plane flying at the top
+002170 | target disappeared
+002202 | white plane flying at the top
+002321 | white plane flying on the top right
+002349 | white plane flying at the top
+002381 | white plane flying in the middle
+002389 | target disappeared
+002472 | white plane flying in the middle
+002541 | white plane flying in the middle
+002589 | white plane flying on the left
+002765 | white plane flying on the top left
+002794 | white plane flying at the top
+002875 | white plane flying on the top left
+003063 | white plane flying at the top
+003169 | target disappeared
+003222 | white plane flying at the top
+003268 | target disappeared
+003303 | white plane flying at the top
+003339 | white plane flying on the top right
+003389 | white plane flying at the top
+003459 | white plane flying on the left
+######################################################################################################
+000000 | black car in the middle
+000104 | black car on the right
+000275 | target disappeared
+000277 | black car on the right
+000293 | target disappeared
+000295 | black car on the right
+000312 | target disappeared
+000314 | black car on the right
+000330 | target disappeared
+000331 | black car on the right
+000349 | target disappeared
+000350 | black car on the right
+000368 | target disappeared
+000369 | black car on the right
+001350 | black car on the right
+002714 | target disappeared
+002849 | black car on the right
+002866 | black car in the middle
+003071 | black car on the right
+004474 | target disappeared
+006763 | black car on the left
+006946 | black car in the middle
+007111 | target disappeared
+008113 | black car on the right
+######################################################################################################
+000000 | second person in gray from the left
+000143 | first person in gray from the left
+000263 | target disappeared
+000305 | first person in gray from the left
+000306 | target disappeared
+000311 | first person in gray from the left
+000457 | target disappeared
+000472 | first person in gray from the left
+000737 | target disappeared
+000753 | first person in gray from the left
+001010 | target disappeared
+001018 | second person in gray from the left
+001119 | first person in gray from the left
+001122 | second person in gray from the left
+001142 | first person in gray from the left
+001223 | target disappeared
+001230 | second person in gray from the left
+001266 | first person in gray from the left
+001348 | target disappeared
+001367 | first person in gray from the left
+001576 | second person in gray from the left
+001657 | first person in gray from the left
+001704 | second person in gray from the left
+001803 | target disappeared
+001816 | first person in gray from the left
+002163 | second person in gray from the left
+002204 | first person in gray from the left
+002597 | second person in gray from the left
+002704 | target disappeared
+002742 | second person in gray from the left
+002831 | first person in gray from the left
+002981 | target disappeared
+003004 | first person in gray from the left
+003286 | second person in gray from the left
+003294 | target disappeared
+003338 | second person in gray from the left
+003474 | first person in gray from the left
+003544 | target disappeared
+003586 | first person in gray from the left
+003623 | second person in gray from the left
+003790 | target disappeared
+003798 | second person in gray from the left
+003940 | first person in gray from the left
+######################################################################################################
+000000 | person in red flying on the right
+000409 | person in red flying on the left
+000666 | target disappeared
+000764 | person in red flying on the right
+000840 | person in red flying on the left
+000926 | target disappeared
+000933 | person in red flying on the left
+001753 | target disappeared
+001790 | person in red flying on the left
+001808 | target disappeared
+001932 | person in red flying on the left
+002157 | target disappeared
+002174 | person in red flying on the left
+002272 | person in red flying on the right
+002357 | target disappeared
+002410 | person in red flying on the right
+######################################################################################################
+000000 | person riding a motorcycle in the middle
+000262 | person riding a motorcycle on the right
+000267 | target disappeared
+000289 | person riding a motorcycle on the bottom right
+000308 | person riding a motorcycle at the bottom
+000336 | person riding a motorcycle on the bottom left
+000342 | target disappeared
+000364 | person riding a motorcycle on the left
+000381 | person riding a motorcycle in the middle
+000410 | person riding a motorcycle on the right
+000417 | target disappeared
+000439 | person riding a motorcycle on the top right
+000456 | person riding a motorcycle at the top
+000485 | person riding a motorcycle on the top left
+000492 | target disappeared
+000514 | person riding a motorcycle on the left
+000528 | person riding a motorcycle in the middle
+000556 | person riding a motorcycle on the right
+000568 | target disappeared
+000588 | person riding a motorcycle at the bottom
+000641 | target disappeared
+000661 | person riding a motorcycle on the left
+000682 | person riding a motorcycle in the middle
+000707 | person riding a motorcycle on the right
+000717 | target disappeared
+000739 | person riding a motorcycle on the top right
+000757 | person riding a motorcycle at the top
+000786 | person riding a motorcycle on the top left
+000792 | target disappeared
+000814 | person riding a motorcycle on the left
+000831 | person riding a motorcycle in the middle
+000861 | person riding a motorcycle on the right
+000868 | target disappeared
+000888 | person riding a motorcycle on the bottom right
+000919 | person riding a motorcycle at the bottom
+000937 | person riding a motorcycle on the bottom left
+000942 | target disappeared
+000963 | person riding a motorcycle on the left
+000986 | person riding a motorcycle in the middle
+001009 | person riding a motorcycle on the right
+001018 | target disappeared
+001038 | person riding a motorcycle on the top right
+001057 | person riding a motorcycle at the top
+001086 | person riding a motorcycle on the top left
+001092 | target disappeared
+001114 | person riding a motorcycle on the left
+001131 | person riding a motorcycle in the middle
+001161 | person riding a motorcycle on the right
+001168 | target disappeared
+001188 | person riding a motorcycle on the right
+001213 | person riding a motorcycle at the bottom
+001241 | target disappeared
+001262 | person riding a motorcycle on the left
+001284 | person riding a motorcycle in the middle
+001312 | person riding a motorcycle on the right
+001318 | target disappeared
+001338 | person riding a motorcycle on the top right
+001355 | person riding a motorcycle at the top
+001382 | person riding a motorcycle on the top left
+001393 | target disappeared
+001412 | person riding a motorcycle on the left
+001429 | person riding a motorcycle in the middle
+001461 | person riding a motorcycle on the right
+001467 | target disappeared
+001491 | person riding a motorcycle on the right
+001506 | person riding a motorcycle at the bottom
+001535 | person riding a motorcycle on the bottom left
+001543 | target disappeared
+001562 | person riding a motorcycle on the left
+001580 | person riding a motorcycle in the middle
+001608 | person riding a motorcycle on the right
+001617 | target disappeared
+001639 | person riding a motorcycle on the top right
+001655 | person riding a motorcycle at the top
+001686 | person riding a motorcycle on the top left
+001692 | target disappeared
+001713 | person riding a motorcycle on the left
+001730 | person riding a motorcycle in the middle
+001767 | target disappeared
+001792 | person riding a motorcycle at the bottom
+001841 | target disappeared
+001861 | person riding a motorcycle on the left
+001883 | person riding a motorcycle in the middle
+001911 | person riding a motorcycle on the right
+001918 | target disappeared
+001940 | person riding a motorcycle at the top
+001985 | person riding a motorcycle on the top left
+001993 | target disappeared
+002020 | person riding a motorcycle on the left
+002036 | person riding a motorcycle in the middle
+002059 | person riding a motorcycle on the right
+002068 | target disappeared
+002089 | person riding a motorcycle on the bottom right
+002105 | person riding a motorcycle at the bottom
+002134 | person riding a motorcycle on the bottom left
+002142 | target disappeared
+002163 | person riding a motorcycle on the left
+002181 | person riding a motorcycle in the middle
+002211 | person riding a motorcycle on the right
+002220 | target disappeared
+002240 | person riding a motorcycle at the top
+002286 | person riding a motorcycle on the top left
+002292 | target disappeared
+002314 | person riding a motorcycle on the left
+002330 | person riding a motorcycle in the middle
+002357 | person riding a motorcycle on the right
+002367 | target disappeared
+002389 | person riding a motorcycle on the bottom right
+002403 | person riding a motorcycle in the middle
+002431 | person riding a motorcycle on the bottom left
+002442 | target disappeared
+002464 | person riding a motorcycle on the left
+002481 | person riding a motorcycle in the middle
+002510 | person riding a motorcycle on the right
+002517 | target disappeared
+002539 | person riding a motorcycle on the top right
+002556 | person riding a motorcycle at the top
+002588 | person riding a motorcycle on the top left
+002593 | target disappeared
+002613 | person riding a motorcycle on the left
+002630 | target disappeared
+002631 | person riding a motorcycle in the middle
+002635 | target disappeared
+002642 | person riding a motorcycle in the middle
+002645 | target disappeared
+002648 | person riding a motorcycle in the middle
+002666 | target disappeared
+002690 | person riding a motorcycle on the right
+002725 | person riding a motorcycle at the bottom
+002742 | target disappeared
+002762 | person riding a motorcycle on the left
+002781 | person riding a motorcycle in the middle
+002809 | person riding a motorcycle on the right
+002818 | target disappeared
+002839 | person riding a motorcycle on the top right
+002851 | person riding a motorcycle at the top
+002883 | person riding a motorcycle on the top left
+002892 | target disappeared
+002914 | person riding a motorcycle on the left
+002930 | person riding a motorcycle in the middle
+002958 | person riding a motorcycle on the right
+002968 | target disappeared
+002990 | person riding a motorcycle at the bottom
+003041 | target disappeared
+003062 | person riding a motorcycle on the left
+003087 | person riding a motorcycle in the middle
+003119 | target disappeared
+######################################################################################################
