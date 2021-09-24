@@ -12,4 +12,4 @@ python -m lib.gui
 - key`Enter` (button`Save`): save the description of current frame
 - `Text Box`: The upper one shows the last description, the lower one is used to annotate the current frame. 
 You can fill the lower one with a language description and click the save button (or press the `Enter` key).
-![](screen.jpg)
+![](./screen.jpg)
