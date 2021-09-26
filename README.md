@@ -14,7 +14,6 @@ You can fill the lower one with a language description and click the `save` butt
 - key`Ctrl+Left` and `Ctrl+Right` (button`<` abd `>`): choose frame
 - key`Shift+Left` and `Shift+Right` (button`<<` abd `>>`): fast-backward and fast-forward
 - key`Alt+Left` and `Alt+Right` (button`@<<` abd `>>@`): to the last description, to the next description
-- key`Home` (button`First`): back to the first frame
 - key`Enter` (button`Save`): save the description of current frame
 - key`Delete` (button`Clear`): clear the description of current frame
 
