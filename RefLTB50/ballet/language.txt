@@ -1,4 +1,4 @@
-woman in white dress standing at the bottom
+woman in a white dress standing on the floor
 
 
 
@@ -52,7 +52,6 @@ woman in white dress standing at the bottom
 
 
 
-woman in white dress standing on the bottom left
 
 
 
@@ -70,6 +69,7 @@ woman in white dress standing on the bottom left
 
 
 
+woman in a white dress standing on the left
 
 
 
@@ -88,306 +88,6 @@ woman in white dress standing on the bottom left
 
 
 
-woman in white dress standing on the left side
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the top
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the top
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the top right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the left
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the left
 
 
 
@@ -439,7 +139,7 @@ target disappeared
 
 
 
-woman in white dress standing at the top
+woman in a white dress standing on the floor
 
 
 
@@ -456,7 +156,6 @@ woman in white dress standing at the top
 
 
 
-woman in white dress standing at the top
 
 
 
@@ -496,6 +195,7 @@ woman in white dress standing at the top
 
 
 
+woman in a white dress standing on the right
 
 
 
@@ -511,151 +211,6 @@ woman in white dress standing at the top
 
 
 
-
-
-
-
-
-
-
-woman in white dress standing on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the left
 
 
 
@@ -735,6 +290,7 @@ target disappeared
 
 
 
+woman in a white dress standing on the right
 
 
 
@@ -758,6 +314,7 @@ target disappeared
 
 
 
+woman in a white dress standing on the floor
 
 
 
@@ -766,7 +323,6 @@ target disappeared
 
 
 
-woman's leg at the top
 
 
 
@@ -816,7 +372,6 @@ woman's leg at the top
 
 
 
-woman in white dress standing on the right
 
 
 
@@ -832,165 +387,10 @@ woman in white dress standing on the right
 
 
 
+woman in a white dress standing on the left
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the right
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the bottom left
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the left
 
 
 
@@ -1039,7 +439,7 @@ target disappeared
 
 
 
-woman in white dress standing at the top
+woman in a white dress standing on the floor
 
 
 
@@ -1058,7 +458,6 @@ woman in white dress standing at the top
 
 
 
-woman in white dress standing at the top
 
 
 
@@ -1106,7 +505,6 @@ woman in white dress standing at the top
 
 
 
-woman in white dress standing on the right
 
 
 
@@ -1120,6 +518,7 @@ woman in white dress standing on the right
 
 
 
+woman in a white dress standing on the right
 
 
 
@@ -1133,154 +532,6 @@ woman in white dress standing on the right
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing at the bottom on the right of a person in white
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-woman in white dress standing on the left
 
 
 
@@ -1339,7 +590,9 @@ target disappeared
 
 
 
-woman in white dress standing at the top
+
+
+woman in a white dress standing on the floor
 
 
 
@@ -1353,7 +606,754 @@ woman in white dress standing at the top
 
 
 
-woman in white dress standing at the top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the right
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the right of the person in white
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+second woman from the left in a white dress standing on the floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+woman in a white dress standing on the left
+
+
+
+
+
+
+
+
+
+
+
+
+
+second woman from the left in a white dress standing on the floor
 
 
 

@@ -1,4 +1,4 @@
-person in blue shirt riding on the right
+person in blue shirt riding a bike on the right
 
 
 
@@ -126,7 +126,7 @@ person in blue shirt riding on the right
 
 
 
-person in blue shirt riding on the road
+person in blue shirt riding a bike on the road
 
 
 
@@ -647,6 +647,7 @@ person in blue shirt riding on the road
 
 
 
+person in blue shirt riding a bike on the right
 
 
 
@@ -681,7 +682,6 @@ person in blue shirt riding on the road
 
 
 
-person in blue shirt riding on the top right
 
 
 
@@ -770,7 +770,6 @@ person in blue shirt riding on the top right
 
 
 
-person in blue shirt riding on the top right
 
 
 
@@ -785,6 +784,7 @@ person in blue shirt riding on the top right
 
 
 
+person in blue shirt riding a bike on the far side
 
 
 
@@ -874,9 +874,9 @@ person in blue shirt riding on the top right
 
 
 
-person in blue shirt riding on the left
 
 
+person in blue shirt riding a bike on the left
 
 
 
@@ -1055,6 +1055,7 @@ person in blue shirt riding on the left
 
 
 
+person in blue shirt riding a bike on the far side
 
 
 
@@ -1062,7 +1063,6 @@ person in blue shirt riding on the left
 
 
 
-person in blue shirt riding at the top
 
 
 
@@ -1237,7 +1237,6 @@ person in blue shirt riding at the top
 
 
 
-person in blue shirt riding on the right
 
 
 
@@ -1262,6 +1261,7 @@ person in blue shirt riding on the right
 
 
 
+person in blue shirt riding a bike on the right
 
 
 
@@ -1391,6 +1391,7 @@ person in blue shirt riding on the right
 
 
 
+person in blue shirt riding a bike on the near side
 
 
 
@@ -1498,7 +1499,6 @@ person in blue shirt riding on the right
 
 
 
-person in blue shirt riding on the road
 
 
 
@@ -2018,7 +2018,6 @@ person in blue shirt riding on the road
 
 
 
-person in blue shirt riding on the right
 
 
 
@@ -2118,7 +2117,6 @@ person in blue shirt riding on the right
 
 
 
-person in blue shirt riding on the left
 
 
 
@@ -2168,9 +2166,9 @@ person in blue shirt riding on the left
 
 
 
-person in blue shirt riding on the left
 
 
+person in blue shirt riding a bike on the left
 
 
 
@@ -2695,6 +2693,7 @@ person in blue shirt riding on the left
 
 
 
+person in blue shirt riding a bike on the far side
 
 
 
@@ -2703,7 +2702,6 @@ person in blue shirt riding on the left
 
 
 
-person in blue shirt riding at the top
 
 
 
@@ -2809,9 +2807,9 @@ person in blue shirt riding at the top
 
 
 
-person in blue shirt riding in the top right corner
 
 
+person in blue shirt riding a bike on the road
 
 
 
@@ -2888,6 +2886,7 @@ person in blue shirt riding in the top right corner
 
 
 
+person in blue shirt riding a bike on the far side
 
 
 
@@ -2928,7 +2927,8 @@ person in blue shirt riding in the top right corner
 
 
 
-person in blue shirt riding at the top
+
+
 
 
 

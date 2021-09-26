@@ -1,4 +1,4 @@
-brown dog standing near the bottom left corner
+brown dog running on the grass
 
 
 
@@ -85,7 +85,7 @@ brown dog standing near the bottom left corner
 
 
 
-brown dog running at the bottom
+
 
 
 
@@ -100,7 +100,7 @@ brown dog running at the bottom
 
 target disappeared
 
-
+brown dog running on the left
 
 
 
@@ -125,267 +125,6 @@ brown dog running on the left
 
 
 target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-brown dog running on the right
-
-brown dog running on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-brown dog running on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-target disappeared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 brown dog running on the left
 
@@ -466,6 +205,16 @@ brown dog running on the left
 
 
 
+
+
+
+
+
+
+
+
+
+
 target disappeared
 
 
@@ -511,7 +260,9 @@ target disappeared
 
 
 
+brown dog running on the right
 
+brown dog running on the right
 
 
 
@@ -537,7 +288,6 @@ target disappeared
 
 
 
-brown dog running at the bottom
 
 
 
@@ -555,16 +305,19 @@ brown dog running at the bottom
 
 
 
+target disappeared
 
 
 
 
 
+brown dog running on the grass
 
 
 
 
 
+target disappeared
 
 
 
@@ -579,6 +332,34 @@ brown dog running at the bottom
 
 
 
+
+
+
+
+
+
+
+brown dog running on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+target disappeared
+brown dog running on the right
 
 
 
@@ -685,6 +466,225 @@ brown dog running on the left
 
 
 
+target disappeared
+
+
+
+
+
+brown dog running on the blue board
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brown dog running on the grass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+brown dog running on the left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -884,14 +884,14 @@ brown dog running on the left
 
 
 
-
-
-
-
-
-
-
 brown dog running on the right
+
+
+
+
+
+
+
 
 
 
@@ -1212,7 +1212,7 @@ brown dog running on the right
 
 
 target disappeared
-brown dog running on the right
+brown dog running on the grass
 
 
 
@@ -1446,45 +1446,45 @@ brown dog running on the right
 target disappeared
 
 
+brown dog running on the grass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 brown dog running on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1580,7 +1580,7 @@ brown dog running on the right
 
 
 
-
+brown dog running on the grass
 
 
 
@@ -1619,7 +1619,7 @@ target disappeared
 
 
 
-brown dog running on the right
+brown dog running on the grass
 
 
 
@@ -1644,7 +1644,7 @@ target disappeared
 
 
 
-brown dog running on the right
+brown dog running on the grass
 
 
 
@@ -1654,20 +1654,7 @@ target disappeared
 
 
 
-brown dog running on the right
-
-
-
-
-
-
-
-
-
-
-
-
-brown dog running on the left
+brown dog running on the grass
 
 
 
@@ -1683,13 +1670,26 @@ brown dog running on the left
 
 
 
-brown dog running on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 target disappeared
 
 
-brown dog running on the bottom left
+brown dog running on the grass
 
 
 

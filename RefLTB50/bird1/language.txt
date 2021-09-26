@@ -1,4 +1,4 @@
-gray bird flying in the middle
+gray bird flying in the air
 
 
 
@@ -13,7 +13,7 @@ gray bird flying in the middle
 
 
 
-gray bird flying at the bottom
+
 
 
 
@@ -254,7 +254,7 @@ gray bird flying on the bottom right
 
 
 
-
+gray bird flying at the bottom
 
 
 
@@ -1235,7 +1235,7 @@ gray bird flying in the middle
 
 
 
-gray bird flying near the right
+gray bird flying on the right
 
 
 
@@ -1809,7 +1809,7 @@ gray bird flying on the bottom right
 
 
 
-gray bird flying near the bottom right
+
 
 
 
@@ -2122,7 +2122,7 @@ gray bird flying on the bottom right
 
 
 
-gray bird flying near the bottom right
+
 
 
 
@@ -2225,7 +2225,7 @@ gray bird flying in the middle
 
 
 
-gray bird flying at the top
+gray bird flying on the top right
 
 
 
@@ -2240,7 +2240,7 @@ gray bird flying at the top
 
 
 
-gray bird flying in the top right corner
+
 
 
 

@@ -1,4 +1,4 @@
-black and white cat standing in the middle
+black and white cat standing on the floor
 
 
 
@@ -359,7 +359,7 @@ black and white cat walking on the right
 
 
 
-
+black and white cat walking in front of the gray dog
 
 
 
@@ -425,7 +425,7 @@ black and white cat walking in front of a gray dog
 
 
 
-
+black and white cat walking on the left
 
 
 
@@ -505,7 +505,7 @@ target disappeared
 
 
 
-black and white cat walking on the left
+
 
 
 
@@ -829,7 +829,7 @@ target disappeared
 
 
 
-
+black and white cat lying on the floor
 
 
 
@@ -1088,6 +1088,7 @@ black and white cat lying on the right
 
 target disappeared
 
+black and white cat lying on the right
 
 
 
@@ -1269,8 +1270,7 @@ target disappeared
 
 
 
-
-
+black and white cat lying on the left
 
 
 
@@ -1363,7 +1363,7 @@ black and white cat lying in front of a gray dog
 
 
 
-
+black and white cat lying on the right
 
 
 
@@ -1384,7 +1384,7 @@ black and white cat walking on the right
 
 
 
-
+black and white cat walking on the floor
 black and white cat walking on the left
 
 
@@ -1510,7 +1510,7 @@ black and white cat walking on the left
 
 
 
-
+black and white cat walking on the right
 black and white cat walking on the right
 
 
@@ -1585,7 +1585,7 @@ black and white cat walking on the left
 
 
 
-black and white cat walking at the bottom
+black and white cat walking in front of a gray dog
 
 
 
@@ -2140,7 +2140,7 @@ black and white cat walking on the left
 
 
 
-
+black and white cat lying on the left
 
 
 

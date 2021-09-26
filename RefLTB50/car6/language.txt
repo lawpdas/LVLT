@@ -221,7 +221,6 @@ silver car running ahead
 
 
 
-silver car running in the middle
 
 
 
@@ -434,7 +433,6 @@ silver car running in the middle
 
 
 
-silver car running near the bottom right corner
 
 
 
@@ -682,7 +680,6 @@ silver car running near the bottom right corner
 
 
 
-silver car running on the right
 
 
 
@@ -720,7 +717,6 @@ silver car running on the right
 
 
 
-silver car running in the middle
 
 
 
@@ -1151,7 +1147,6 @@ silver car running in the middle
 
 
 
-silver car running at the bottom
 
 
 
@@ -1212,393 +1207,6 @@ silver car running at the bottom
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-silver car running on the right
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-silver car running at the top
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-silver car running in the middle
 
 
 
@@ -2102,7 +1710,399 @@ silver car running on the right
 
 
 
-silver car running at the bottom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+silver car running on the right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+silver car running ahead
 
 
 
@@ -2434,6 +2434,7 @@ silver car running on the right
 
 
 
+silver car running on the near side
 
 
 
@@ -2454,6 +2455,7 @@ silver car running on the right
 
 
 
+silver car running on the right
 
 
 
@@ -2560,6 +2562,7 @@ silver car running on the right
 
 
 
+silver car running on the far side
 
 
 
@@ -2606,7 +2609,6 @@ silver car running on the right
 
 
 
-silver car running on the top right
 
 
 
@@ -2908,9 +2910,7 @@ silver car running on the top right
 
 
 
-
-
-silver car running in the middle
+silver car running on the near side
 
 
 
@@ -3459,9 +3459,9 @@ silver car running on the left
 
 
 
+silver car running ahead
 
 
-silver car running at the bottom
 
 
 
@@ -3576,6 +3576,7 @@ silver car running at the bottom
 
 
 
+silver car running on the road
 
 
 
@@ -3663,7 +3664,6 @@ silver car running at the bottom
 
 
 
-silver car running in the middle
 
 
 
@@ -3712,7 +3712,6 @@ silver car running in the middle
 
 
 
-silver car running in the middle
 
 
 
@@ -3880,6 +3879,7 @@ silver car running in the middle
 
 
 
+silver car parking near the streetlight
 
 
 
@@ -4128,7 +4128,6 @@ silver car running in the middle
 
 
 
-silver car parking near the bottom left corner
 
 
 
@@ -4248,7 +4247,6 @@ silver car parking near the bottom left corner
 
 
 
-silver car parking in the middle
 
 
 
@@ -4621,7 +4619,6 @@ silver car parking in the middle
 
 
 
-silver car on the left
 
 
 
@@ -4638,6 +4635,9 @@ silver car on the left
 
 
 
+
+
+silver car moving near the streetlight
 
 
 

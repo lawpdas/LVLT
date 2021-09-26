@@ -1,4 +1,4 @@
-white car running in the middle
+white car running on the road
 
 
 
@@ -257,7 +257,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -267,6 +266,7 @@ white car running on the right
 
 
 
+
 target disappeared
 
 
@@ -284,7 +284,6 @@ target disappeared
 
 
 
-white car running on the right
 
 
 
@@ -298,8 +297,8 @@ white car running on the right
 
 
 
-white car running at the bottom
 
+white car running on the road
 
 
 
@@ -341,7 +340,9 @@ white car running at the bottom
 
 
 
+
 target disappeared
+
 
 
 
@@ -358,8 +359,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -390,7 +391,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -409,7 +409,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -417,7 +416,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -434,9 +436,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the right
 
 
 
@@ -449,7 +451,6 @@ white car running on the right
 
 
 
-white car running at the top
 
 
 
@@ -487,7 +488,6 @@ white car running at the top
 
 
 
-white car running on the left
 
 
 
@@ -510,7 +510,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -528,7 +528,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -563,12 +562,14 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -585,6 +586,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -602,7 +604,6 @@ target disappeared
 
 
 
-white car running at the bottom
 
 
 
@@ -635,7 +636,6 @@ white car running at the bottom
 
 
 
-white car running on the left
 
 
 
@@ -660,7 +660,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -680,7 +680,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -716,7 +715,9 @@ white car running in the middle
 
 
 
+
 target disappeared
+
 
 
 
@@ -735,8 +736,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
@@ -744,7 +745,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -753,7 +753,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -783,15 +782,17 @@ white car running at the top
 
 
 
-white car running on the top left
 
+white car running on the road
 
 
 
 
 
 
+
 target disappeared
+
 
 
 
@@ -810,8 +811,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -843,7 +844,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -860,13 +860,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -884,9 +886,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
@@ -907,7 +909,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -935,7 +936,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -962,7 +962,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -982,7 +982,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1009,13 +1008,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -1035,9 +1037,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -1053,7 +1055,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -1083,7 +1084,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -1112,7 +1112,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -1126,7 +1126,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1163,9 +1162,11 @@ white car running in the middle
 
 
 
-white car running on the right
 
+
+
 target disappeared
+
 
 
 
@@ -1186,11 +1187,10 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
-white car running on the bottom right
 
 
 
@@ -1202,7 +1202,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -1232,7 +1231,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -1240,7 +1238,11 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -1260,9 +1262,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -1278,7 +1280,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1309,7 +1310,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -1337,7 +1337,7 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
@@ -1351,7 +1351,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -1383,14 +1382,16 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -1411,8 +1412,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -1426,7 +1427,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1463,9 +1463,11 @@ white car running in the middle
 
 
 
-white car running on the right
 
+
 target disappeared
+
+
 
 
 
@@ -1493,15 +1495,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
-white car running at the bottom
 
 
 
@@ -1532,7 +1533,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -1562,7 +1562,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -1576,7 +1576,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1609,14 +1608,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -1635,8 +1636,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
@@ -1651,7 +1652,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -1682,7 +1682,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -1691,7 +1690,9 @@ white car running on the top left
 
 
 
+
 target disappeared
+
 
 
 
@@ -1710,8 +1711,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -1729,7 +1730,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1759,14 +1759,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
 
 
 
@@ -1785,8 +1786,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
@@ -1794,7 +1795,6 @@ white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -1806,7 +1806,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -1835,13 +1834,15 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -1864,8 +1865,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -1874,7 +1875,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -1909,13 +1909,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -1934,14 +1937,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -1955,7 +1957,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -1981,7 +1982,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -2012,10 +2012,9 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -2034,7 +2033,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2055,7 +2053,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -2065,6 +2062,9 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
 
 
@@ -2087,14 +2087,13 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -2103,7 +2102,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -2133,14 +2131,17 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -2161,8 +2162,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -2174,7 +2175,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2207,7 +2207,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -2215,7 +2214,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -2241,9 +2243,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -2255,7 +2257,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -2282,7 +2283,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -2312,7 +2312,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -2327,7 +2327,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2357,7 +2356,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -2365,7 +2363,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -2386,15 +2387,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -2404,7 +2404,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -2433,7 +2432,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -2441,7 +2439,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -2460,8 +2461,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -2476,7 +2477,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2509,14 +2509,17 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -2533,10 +2536,10 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
@@ -2544,7 +2547,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -2555,7 +2557,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -2584,7 +2585,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -2612,10 +2612,9 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -2628,7 +2627,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2659,13 +2657,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
+
 target disappeared
 
 
@@ -2686,7 +2686,7 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
@@ -2696,7 +2696,6 @@ white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -2706,7 +2705,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -2733,7 +2731,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -2741,7 +2738,11 @@ white car running on the bottom left
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -2760,10 +2761,9 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -2774,7 +2774,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2807,7 +2806,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -2816,7 +2814,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -2835,13 +2836,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
-white car running on the top right
 
 
 
@@ -2854,7 +2854,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -2884,14 +2883,17 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -2909,9 +2911,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -2929,7 +2931,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -2957,7 +2958,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -2986,7 +2986,7 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
@@ -3004,7 +3004,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -3034,14 +3033,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -3060,8 +3061,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
@@ -3078,7 +3079,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3108,7 +3108,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -3116,7 +3115,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -3134,9 +3136,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -3144,7 +3146,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -3155,7 +3156,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -3182,7 +3182,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -3191,7 +3190,10 @@ white car running on the top left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -3209,9 +3211,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -3229,7 +3231,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3259,7 +3260,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -3286,7 +3286,7 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
@@ -3294,7 +3294,6 @@ white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -3302,7 +3301,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -3335,13 +3333,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -3360,10 +3361,9 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -3375,7 +3375,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3409,14 +3408,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -3435,13 +3436,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
-white car running on the top right
 
 
 
@@ -3456,7 +3456,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -3485,13 +3484,16 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -3509,14 +3511,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -3525,7 +3526,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3556,7 +3556,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -3566,7 +3565,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -3584,16 +3586,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -3605,7 +3606,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -3634,14 +3634,17 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -3658,12 +3661,11 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -3677,7 +3679,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3707,7 +3708,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -3736,7 +3736,7 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
@@ -3744,7 +3744,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -3757,7 +3756,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -3784,13 +3782,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
+
+
 target disappeared
 
 
@@ -3816,7 +3816,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -3832,7 +3832,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -3861,11 +3860,13 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -3886,6 +3887,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -3894,7 +3896,6 @@ target disappeared
 
 
 
-white car running on the bottom right
 
 
 
@@ -3905,7 +3906,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -3933,14 +3933,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -3960,13 +3962,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -3985,7 +3986,6 @@ white car running on the left
 
 
 
-white car running in he middle
 
 
 
@@ -4037,11 +4037,11 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
-white car running on the top right
 
 
 
@@ -4054,7 +4054,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -4079,7 +4078,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -4090,7 +4088,11 @@ white car running on the top left
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -4110,13 +4112,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -4128,7 +4129,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4159,13 +4159,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -4185,6 +4187,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -4194,7 +4197,6 @@ target disappeared
 
 
 
-white car running on the bottom right
 
 
 
@@ -4204,7 +4206,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -4232,7 +4233,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -4262,11 +4262,10 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -4278,7 +4277,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4309,13 +4307,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -4336,12 +4337,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -4355,7 +4355,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -4382,7 +4381,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -4390,7 +4388,10 @@ white car running on the top left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -4411,9 +4412,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
-white car running on the left
 
 
 
@@ -4427,7 +4427,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4461,11 +4460,14 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -4485,6 +4487,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -4494,7 +4497,6 @@ target disappeared
 
 
 
-white car running on the bottom right
 
 
 
@@ -4504,7 +4506,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -4531,7 +4532,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -4562,7 +4562,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -4577,7 +4577,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4611,11 +4610,13 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -4636,13 +4637,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -4654,7 +4655,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -4680,7 +4680,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -4690,7 +4689,10 @@ white car running on the top left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -4710,12 +4712,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
-white car running on the left
 
 
 
@@ -4727,7 +4729,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4759,7 +4760,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -4787,13 +4787,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -4802,7 +4802,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -4831,7 +4830,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -4840,7 +4838,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -4861,12 +4862,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
-white car running on the left
 
 
 
@@ -4877,7 +4878,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -4909,13 +4909,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -4934,16 +4937,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -4952,7 +4954,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -4983,7 +4984,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -5012,12 +5012,11 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
-white car running on the left
 
 
 
@@ -5028,7 +5027,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5061,10 +5059,12 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
+
+
+
 target disappeared
 
 
@@ -5087,13 +5087,12 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -5103,7 +5102,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -5129,7 +5127,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -5140,7 +5137,11 @@ white car running on the bottom left
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -5161,12 +5162,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -5179,7 +5179,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5212,10 +5211,12 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
+
+
 target disappeared
+
 
 
 
@@ -5236,8 +5237,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
@@ -5251,7 +5252,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -5285,12 +5285,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -5309,14 +5312,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -5332,7 +5334,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5359,7 +5360,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -5387,6 +5387,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -5395,14 +5396,12 @@ target disappeared
 
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running at the bottom
 
 
 
@@ -5432,7 +5431,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -5440,7 +5438,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -5461,10 +5462,9 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -5479,7 +5479,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5509,13 +5508,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -5536,15 +5537,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -5554,7 +5554,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -5582,7 +5581,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -5590,7 +5588,10 @@ white car running on the top left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -5611,14 +5612,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -5631,7 +5631,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5661,11 +5660,14 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -5685,15 +5687,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -5706,7 +5707,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -5731,7 +5731,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -5740,7 +5739,10 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -5760,15 +5762,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -5782,7 +5783,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5808,14 +5808,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
 
 
 
@@ -5836,8 +5837,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running at the top right
 
 
 
@@ -5851,7 +5852,6 @@ white car running at the top right
 
 
 
-white car running at the top
 
 
 
@@ -5885,12 +5885,13 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
 target disappeared
+
 
 
 
@@ -5911,13 +5912,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -5930,7 +5930,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -5959,14 +5958,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -5986,14 +5987,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -6003,7 +6003,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -6033,14 +6032,17 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -6060,15 +6062,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -6077,7 +6078,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6109,13 +6109,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -6135,13 +6137,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -6153,7 +6154,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -6182,7 +6182,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -6191,7 +6190,11 @@ white car running on the top left
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -6208,10 +6211,10 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -6219,7 +6222,6 @@ white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -6228,7 +6230,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6260,7 +6261,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -6286,13 +6286,12 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -6309,7 +6308,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -6331,7 +6329,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -6340,6 +6337,9 @@ white car running on the bottom left
 
 
 
+
+
+
 target disappeared
 
 
@@ -6362,13 +6362,12 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
 
-white car running on the left
 
 
 
@@ -6378,7 +6377,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6410,12 +6408,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -6436,14 +6437,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -6460,7 +6460,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -6485,12 +6484,14 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -6511,12 +6512,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -6532,7 +6532,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6560,12 +6559,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -6585,16 +6587,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -6607,7 +6608,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -6634,13 +6634,15 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -6660,12 +6662,11 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
-white car running on the left
 
 
 
@@ -6678,7 +6679,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6704,7 +6704,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -6716,7 +6715,11 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -6733,10 +6736,10 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
@@ -6744,7 +6747,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -6755,7 +6757,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -6767,7 +6768,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -6812,13 +6812,12 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
 
-white car running on the left
 
 
 
@@ -6828,7 +6827,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -6858,14 +6856,19 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
+
 target disappeared
+
+
+
 
 
 
@@ -6884,14 +6887,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -6904,7 +6906,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -6936,7 +6937,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -6962,11 +6962,10 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -6979,7 +6978,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7005,7 +7003,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -7015,6 +7012,9 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
 
 
@@ -7037,7 +7037,7 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
@@ -7045,7 +7045,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -7055,7 +7054,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -7085,12 +7083,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -7111,14 +7112,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -7131,7 +7131,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7159,13 +7158,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -7186,13 +7187,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -7202,7 +7202,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -7231,7 +7230,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -7240,7 +7238,11 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -7260,14 +7262,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -7277,7 +7278,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7307,7 +7307,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -7316,7 +7315,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -7334,9 +7336,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -7344,7 +7346,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -7354,7 +7355,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -7383,14 +7383,17 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -7409,14 +7412,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -7428,7 +7430,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7459,7 +7460,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -7487,6 +7487,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -7495,7 +7496,6 @@ target disappeared
 
 
 
-white car running on the bottom right
 
 
 
@@ -7507,7 +7507,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -7533,7 +7532,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -7541,7 +7539,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -7560,13 +7561,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -7579,7 +7579,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7606,7 +7605,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -7615,7 +7613,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -7636,12 +7637,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -7656,7 +7656,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -7686,11 +7685,13 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -7711,12 +7712,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -7729,7 +7729,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7760,12 +7759,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -7785,9 +7787,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
@@ -7795,7 +7797,6 @@ white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -7808,7 +7809,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -7832,7 +7832,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -7840,7 +7839,10 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -7860,14 +7862,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -7879,7 +7880,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -7912,10 +7912,11 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
+
 target disappeared
+
 
 
 
@@ -7936,6 +7937,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -7944,7 +7946,6 @@ target disappeared
 
 
 
-white car running on the top right
 
 
 
@@ -7956,7 +7957,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -7983,14 +7983,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
 target disappeared
+
 
 
 
@@ -8011,11 +8012,10 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
-white car running on the left
 
 
 
@@ -8028,7 +8028,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8058,14 +8057,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -8086,14 +8087,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -8103,7 +8103,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -8133,14 +8132,17 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -8160,15 +8162,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -8180,7 +8181,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8208,14 +8208,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -8234,9 +8236,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -8244,7 +8246,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -8254,7 +8255,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -8284,14 +8284,16 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -8310,14 +8312,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -8335,7 +8336,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8359,13 +8359,15 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -8384,9 +8386,9 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
@@ -8394,7 +8396,6 @@ white car running on the bottom right
 
 
 
-white car running on the bottom right
 
 
 
@@ -8404,7 +8405,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -8433,7 +8433,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -8441,7 +8440,11 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -8458,13 +8461,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
-white car running on the left
 
 
 
@@ -8477,7 +8479,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8508,7 +8509,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -8536,11 +8536,10 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
@@ -8553,7 +8552,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -8582,7 +8580,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -8591,6 +8588,9 @@ white car running on the top left
 
 
 
+
+
+
 target disappeared
 
 
@@ -8611,13 +8611,12 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
 
-white car running on the left
 
 
 
@@ -8628,7 +8627,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8660,13 +8658,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -8685,8 +8686,8 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
@@ -8700,7 +8701,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -8734,14 +8734,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -8759,13 +8761,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -8779,7 +8780,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8807,7 +8807,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -8816,7 +8815,9 @@ white car running on the right
 
 
 
+
 target disappeared
+
 
 
 
@@ -8835,13 +8836,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -8854,7 +8855,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -8882,7 +8882,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -8891,7 +8890,9 @@ white car running on the top left
 
 
 
+
 target disappeared
+
 
 
 
@@ -8910,12 +8911,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -8926,7 +8926,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -8957,7 +8956,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -8966,7 +8964,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -8985,15 +8986,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -9006,7 +9006,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -9029,7 +9028,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -9041,7 +9039,11 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -9059,6 +9061,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -9068,7 +9071,6 @@ target disappeared
 
 
 
-white car running on the left
 
 
 
@@ -9091,7 +9093,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9107,7 +9108,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -9136,13 +9136,12 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -9153,7 +9152,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -9185,11 +9183,13 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
+
+
 target disappeared
 
 
@@ -9212,11 +9212,10 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -9228,7 +9227,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9256,7 +9254,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -9266,7 +9263,11 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -9286,15 +9287,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -9305,7 +9305,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -9331,7 +9330,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -9340,7 +9338,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -9361,12 +9362,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -9378,7 +9378,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9404,7 +9403,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -9416,7 +9414,11 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -9434,6 +9436,7 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
@@ -9443,7 +9446,6 @@ target disappeared
 
 
 
-white car running on the top right
 
 
 
@@ -9456,7 +9458,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -9482,7 +9483,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -9512,11 +9512,10 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -9529,7 +9528,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9560,11 +9558,13 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
+
 target disappeared
 
 
@@ -9586,21 +9586,19 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running at the bottom
 
 
 
@@ -9633,7 +9631,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -9641,7 +9638,11 @@ white car running on the bottom left
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -9660,10 +9661,9 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -9674,7 +9674,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9707,7 +9706,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -9716,7 +9714,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -9735,11 +9736,11 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
-white car running on the top right
 
 
 
@@ -9752,7 +9753,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -9784,13 +9784,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -9810,15 +9812,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -9831,7 +9832,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -9856,7 +9856,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -9865,7 +9864,10 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -9885,16 +9887,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -9903,7 +9904,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -9932,7 +9932,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -9940,7 +9939,11 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -9959,13 +9962,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
-white car running on the left
 
 
 
@@ -9974,7 +9976,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10005,7 +10006,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -10036,13 +10036,12 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -10061,7 +10060,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -10085,12 +10083,14 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
+
+
+
 target disappeared
 
 
@@ -10111,12 +10111,11 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
-white car running on the left
 
 
 
@@ -10128,7 +10127,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10157,7 +10155,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -10165,7 +10162,11 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -10186,12 +10187,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -10202,7 +10203,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -10234,14 +10234,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -10259,14 +10261,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
-white car running on the left
 
 
 
@@ -10278,7 +10279,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10309,14 +10309,17 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -10333,16 +10336,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -10352,7 +10354,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -10382,7 +10383,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -10412,14 +10412,13 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
 
 
 
-white car running on the left
 
 
 
@@ -10428,7 +10427,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10452,7 +10450,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -10465,6 +10462,9 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
 
 
@@ -10487,11 +10487,11 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -10502,7 +10502,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -10530,7 +10529,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -10541,7 +10539,10 @@ white car running on the bottom left
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -10561,12 +10562,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -10580,7 +10580,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10607,7 +10606,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -10615,7 +10613,10 @@ white car running on the right
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -10636,15 +10637,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -10655,7 +10655,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -10682,7 +10681,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -10690,7 +10688,11 @@ white car running on the top left
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -10710,11 +10712,10 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -10727,7 +10728,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10758,14 +10758,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -10785,15 +10787,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -10804,7 +10805,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -10833,7 +10833,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -10841,7 +10840,11 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -10859,16 +10862,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -10876,7 +10878,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -10906,7 +10907,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -10937,10 +10937,9 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
-white car running on the top right
 
 
 
@@ -10953,7 +10952,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -10982,7 +10980,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -10990,6 +10987,9 @@ white car running on the top left
 
 
 
+
+
+
 target disappeared
 
 
@@ -11012,7 +11012,7 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
@@ -11020,7 +11020,6 @@ white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -11034,7 +11033,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11059,13 +11057,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -11086,13 +11087,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -11108,7 +11108,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -11133,14 +11132,16 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -11161,10 +11162,9 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
-white car running on the left
 
 
 
@@ -11176,7 +11176,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11210,12 +11209,14 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -11236,13 +11237,13 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -11254,7 +11255,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -11281,7 +11281,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -11290,7 +11289,10 @@ white car running on the top left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -11310,15 +11312,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -11329,7 +11330,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11355,7 +11355,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -11365,7 +11364,11 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -11384,16 +11387,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the bottom right
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -11405,7 +11407,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -11433,7 +11434,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -11462,10 +11462,9 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
-white car running on the left
 
 
 
@@ -11479,7 +11478,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11506,7 +11504,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -11515,6 +11512,9 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
 
 
@@ -11537,12 +11537,11 @@ target disappeared
 
 
 
-white car running on the top right
+white car running on the road
 
 
 
 
-white car running on the top right
 
 
 
@@ -11554,7 +11553,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -11581,7 +11579,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
@@ -11590,7 +11587,11 @@ white car running on the top left
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -11610,14 +11611,13 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -11628,7 +11628,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11660,12 +11659,14 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -11686,13 +11687,12 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the bottom right
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -11722,7 +11722,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -11733,14 +11732,17 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -11760,13 +11762,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -11779,7 +11780,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11808,14 +11808,16 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -11835,13 +11837,12 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -11853,7 +11854,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -11885,12 +11885,15 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -11908,17 +11911,16 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the left
 
 
 
 
 
 
-white car running on the left
 
 
 
@@ -11929,7 +11931,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -11957,7 +11958,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -11987,14 +11987,13 @@ target disappeared
 
 
 
-white car running on the bottom right
+white car running on the road
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -12006,7 +12005,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -12031,7 +12029,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -12040,6 +12037,9 @@ white car running on the bottom left
 
 
 
+
+
+
 target disappeared
 
 
@@ -12062,11 +12062,10 @@ target disappeared
 
 
 
-white car running on the left
+white car running on the road
 
 
 
-white car running on the left
 
 
 
@@ -12078,7 +12077,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -12105,7 +12103,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -12115,7 +12112,11 @@ white car running on the right
 
 
 
+
+
+
 target disappeared
+
 
 
 
@@ -12136,15 +12137,14 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the top right
 
 
 
 
 
 
-white car running on the top right
 
 
 
@@ -12155,7 +12155,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -12183,14 +12182,16 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 
 
 
 
+
+
 target disappeared
+
 
 
 
@@ -12211,12 +12212,11 @@ target disappeared
 
 
 
+white car running on the road
 
-white car running on the left
 
 
 
-white car running on the left
 
 
 
@@ -12228,7 +12228,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -12258,14 +12257,17 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
 
 
 
+
+
 target disappeared
+
+
 
 
 
@@ -12285,16 +12287,15 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the bottom right
 
 
 
 
 
 
-white car running on the bottom right
 
 
 
@@ -12303,7 +12304,6 @@ white car running on the bottom right
 
 
 
-white car running at the bottom
 
 
 
@@ -12332,7 +12332,6 @@ white car running at the bottom
 
 
 
-white car running on the bottom left
 
 
 
@@ -12340,7 +12339,10 @@ white car running on the bottom left
 
 
 
+
 target disappeared
+
+
 
 
 
@@ -12360,15 +12362,14 @@ target disappeared
 
 
 
+white car running on the road
 
 
-white car running on the left
 
 
 
 
 
-white car running on the left
 
 
 
@@ -12380,7 +12381,6 @@ white car running on the left
 
 
 
-white car running in the middle
 
 
 
@@ -12407,7 +12407,6 @@ white car running in the middle
 
 
 
-white car running on the right
 
 
 
@@ -12415,7 +12414,11 @@ white car running on the right
 
 
 
+
 target disappeared
+
+
+
 
 
 
@@ -12434,10 +12437,10 @@ target disappeared
 
 
 
+white car running on the road
 
 
 
-white car running on the top right
 
 
 
@@ -12445,7 +12448,6 @@ white car running on the top right
 
 
 
-white car running on the top right
 
 
 
@@ -12456,7 +12458,6 @@ white car running on the top right
 
 
 
-white car running at the top
 
 
 
@@ -12481,7 +12482,6 @@ white car running at the top
 
 
 
-white car running on the top left
 
 
 

@@ -686,6 +686,7 @@ target disappeared
 
 
 
+brown deer walking in the middle
 
 
 
@@ -1089,8 +1090,7 @@ target disappeared
 
 
 
-
-
+brown deer walking on the right
 
 
 brown deer running on the right
@@ -1147,9 +1147,9 @@ brown deer running on the right
 
 
 
+brown deer walking on the left
 
 
-brown deer running on the left
 
 
 

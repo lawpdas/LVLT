@@ -3236,7 +3236,7 @@ a person in gray and a horse walking on the left
 
 
 
-a person in gray and a horse walking on the right
+a person in gray and a horse walking on the near side
 
 
 
@@ -5326,7 +5326,7 @@ a person in gray and a horse walking on the right
 
 
 
-
+a person in gray and a horse walking on the near side
 
 
 
@@ -11833,6 +11833,7 @@ a person in gray and a horse walking on the left
 
 
 
+a person in gray and a horse walking on the far side
 
 
 
@@ -12952,8 +12953,7 @@ a person in gray and a horse walking on the left
 
 
 
-
-
+a person in gray and a horse walking on the road
 
 
 
@@ -13953,7 +13953,7 @@ a person in gray and a horse walking on the right
 
 
 
-
+a person in gray and a horse walking on the road
 
 
 
@@ -14318,7 +14318,7 @@ a person in gray and a horse walking on the left
 
 
 
-
+a person in gray and a horse walking on the far side
 
 
 

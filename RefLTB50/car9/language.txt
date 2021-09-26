@@ -1,4 +1,4 @@
-silver and white car running at the bottom
+silver car on the left running on the road
 
 
 
@@ -248,11 +248,11 @@ silver and white car running at the bottom
 
 
 
+silver car on the right running on the road
 
 
 
 
-silver and white car running at the top
 
 
 
@@ -319,7 +319,6 @@ silver and white car running at the top
 
 
 
-silver and white car running on the right
 
 
 
@@ -367,7 +366,6 @@ silver and white car running on the right
 
 
 
-silver and white car running on the bottom right
 
 
 
@@ -385,6 +383,7 @@ silver and white car running on the bottom right
 
 
 
+silver car on the near side running on the road
 
 
 
@@ -521,8 +520,8 @@ silver and white car running on the bottom right
 
 
 
-silver and white car running on the right
 
+silver car on the right running on the road
 
 
 
@@ -620,8 +619,8 @@ silver and white car running on the right
 
 
 
-silver and white car running on the bottom right
 
+silver car on the near side running on the road
 
 
 
@@ -859,8 +858,8 @@ silver and white car running on the bottom right
 
 
 
-silver and white car running at the top
 
+silver car on the right running on the road
 
 
 
@@ -903,7 +902,6 @@ silver and white car running at the top
 
 
 
-silver and white car running on the right
 
 
 
@@ -936,9 +934,9 @@ silver and white car running on the right
 
 
 
-silver and white car running at the bottom
 
 
+silver car on the near side running on the road
 
 
 
@@ -1156,7 +1154,6 @@ silver and white car running at the bottom
 
 
 
-silver and white car running in the middle
 
 
 
@@ -1173,6 +1170,7 @@ silver and white car running in the middle
 
 
 
+silver car on the right running on the road
 
 
 
@@ -1296,7 +1294,6 @@ silver and white car running in the middle
 
 
 
-silver and white car running on the right
 
 
 
@@ -1626,10 +1623,10 @@ silver and white car running on the right
 
 
 
-silver and white car running on the top right
 
 
 
+silver car on the far side running on the road
 
 
 
@@ -1819,7 +1816,10 @@ silver and white car running on the top right
 
 
 
-silver and white car running at the top
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -280,7 +280,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the right
+person in a blue shirt walking on the right
 
 
 
@@ -559,7 +559,7 @@ person in blue shirt walking on the right
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -725,7 +725,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the right
+person in a blue shirt walking on the right
 
 
 
@@ -829,7 +829,7 @@ person in blue shirt walking on the right
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -934,7 +934,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the right
+person in a blue shirt walking on the right
 
 
 
@@ -1241,7 +1241,7 @@ person in blue shirt walking on the right
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -1604,7 +1604,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the right
+person in a blue shirt walking on the right
 
 
 
@@ -1742,7 +1742,7 @@ person in blue shirt walking on the right
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -1853,7 +1853,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the left
+person in a blue shirt walking on the left
 
 
 
@@ -1962,7 +1962,7 @@ person in blue shirt walking on the left
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -2328,7 +2328,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the left
+person in a blue shirt walking on the left
 
 
 
@@ -2454,7 +2454,7 @@ person in blue shirt walking on the left
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -2814,7 +2814,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the left
+person in a blue shirt walking on the left
 
 
 
@@ -3063,7 +3063,7 @@ person in blue shirt walking on the left
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -3165,7 +3165,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the left
+person in a blue shirt walking on the left
 
 
 
@@ -3220,7 +3220,7 @@ person in blue shirt walking on the left
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -3367,7 +3367,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the right
+person in a blue shirt walking on the right
 
 
 
@@ -3505,7 +3505,7 @@ person in blue shirt walking on the right
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
@@ -3624,7 +3624,7 @@ person in blue shirt walking in the middle
 
 
 
-person in blue shirt walking on the left
+person in a blue shirt walking on the left
 
 
 
@@ -3911,7 +3911,7 @@ person in blue shirt walking on the left
 
 
 
-person in blue shirt walking in the middle
+person in a blue shirt walking in the middle
 
 
 
